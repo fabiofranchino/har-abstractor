@@ -1,0 +1,3021 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2013-06-11T10:34:35.996Z",
+        "id": "page_4",
+        "title": "http://en.wikipedia.org/",
+        "pageTimings": {
+          "onContentLoad": 896,
+          "onLoad": 1374
+        }
+      }
+    ],
+    "entries": [
+      {
+        "startedDateTime": "2013-06-11T10:34:35.996Z",
+        "time": 158,
+        "request": {
+          "method": "GET",
+          "url": "http://en.wikipedia.org/",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "Cookie",
+              "value": "mediaWiki.user.id=aV967IlKhQo4onpqgw1cAURXnvAyxQH6; centralnotice_bannercount_fr12=5; centralnotice_bucket=1-4.2; mediaWiki.user.sessionId=L3I2MFaYDkw2uSFsI3jh94f9RmCPVJsA; mediaWiki.user.bucket%3Aext.articleFeedbackv5%4011-tracking=11%3Aignore; mediaWiki.user.bucket%3Aext.articleFeedbackv5%406-form=6%3A6; mediaWiki.user.bucket%3Aext.articleFeedbackv5%405-links=5%3AX"
+            },
+            {
+              "name": "Host",
+              "value": "en.wikipedia.org"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [
+            {
+              "name": "mediaWiki.user.id",
+              "value": "aV967IlKhQo4onpqgw1cAURXnvAyxQH6",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "centralnotice_bannercount_fr12",
+              "value": "5",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "centralnotice_bucket",
+              "value": "1-4.2",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "mediaWiki.user.sessionId",
+              "value": "L3I2MFaYDkw2uSFsI3jh94f9RmCPVJsA",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "mediaWiki.user.bucket%3Aext.articleFeedbackv5%4011-tracking",
+              "value": "11%3Aignore",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "mediaWiki.user.bucket%3Aext.articleFeedbackv5%406-form",
+              "value": "6%3A6",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "mediaWiki.user.bucket%3Aext.articleFeedbackv5%405-links",
+              "value": "5%3AX",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 721,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 301,
+          "statusText": "Moved Permanently",
+          "httpVersion": "HTTP/1.0",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Tue, 11 Jun 2013 10:34:27 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "HIT from cp1017.eqiad.wmnet:3128"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "HIT from cp1017.eqiad.wmnet:80"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Tue, 11 Jun 2013 10:34:27 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "Apache"
+            },
+            {
+              "name": "Age",
+              "value": "9"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding,X-Forwarded-Proto,Cookie"
+            },
+            {
+              "name": "X-Cache",
+              "value": "MISS from cp1017.eqiad.wmnet"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT from cp1017.eqiad.wmnet"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html; charset=utf-8"
+            },
+            {
+              "name": "Location",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "s-maxage=1200, must-revalidate, max-age=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "20"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "text/html",
+            "compression": -20
+          },
+          "redirectURL": "http://en.wikipedia.org/wiki/Main_Page",
+          "headersSize": 613,
+          "bodySize": 20
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 1,
+          "wait": 154,
+          "receive": 2,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.155Z",
+        "time": 195,
+        "request": {
+          "method": "GET",
+          "url": "http://en.wikipedia.org/wiki/Main_Page",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "Host",
+              "value": "en.wikipedia.org"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            },
+            {
+              "name": "Cookie",
+              "value": "userbuckets=%7B%22AccountCreation%22%3A%5B%22ACP2%22%2C1%5D%2C%22lastModified%22%3A%5B%22expr1%22%2C1%5D%7D; mediaWiki.user.id=aV967IlKhQo4onpqgw1cAURXnvAyxQH6; centralnotice_bannercount_fr12=5; centralnotice_bucket=1-4.2; mediaWiki.user.sessionId=L3I2MFaYDkw2uSFsI3jh94f9RmCPVJsA; mediaWiki.user.bucket%3Aext.articleFeedbackv5%4011-tracking=11%3Aignore; mediaWiki.user.bucket%3Aext.articleFeedbackv5%406-form=6%3A6; mediaWiki.user.bucket%3Aext.articleFeedbackv5%405-links=5%3AX"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "If-Modified-Since",
+              "value": "Tue, 11 Jun 2013 09:42:32 GMT"
+            }
+          ],
+          "queryString": [],
+          "cookies": [
+            {
+              "name": "userbuckets",
+              "value": "%7B%22AccountCreation%22%3A%5B%22ACP2%22%2C1%5D%2C%22lastModified%22%3A%5B%22expr1%22%2C1%5D%7D",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "mediaWiki.user.id",
+              "value": "aV967IlKhQo4onpqgw1cAURXnvAyxQH6",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "centralnotice_bannercount_fr12",
+              "value": "5",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "centralnotice_bucket",
+              "value": "1-4.2",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "mediaWiki.user.sessionId",
+              "value": "L3I2MFaYDkw2uSFsI3jh94f9RmCPVJsA",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "mediaWiki.user.bucket%3Aext.articleFeedbackv5%4011-tracking",
+              "value": "11%3Aignore",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "mediaWiki.user.bucket%3Aext.articleFeedbackv5%406-form",
+              "value": "6%3A6",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "mediaWiki.user.bucket%3Aext.articleFeedbackv5%405-links",
+              "value": "5%3AX",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 894,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 304,
+          "statusText": "Not Modified",
+          "httpVersion": "HTTP/1.0",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Tue, 11 Jun 2013 09:42:34 GMT"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "HIT from cp1017.eqiad.wmnet:80"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Tue, 11 Jun 2013 09:42:32 GMT"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Age",
+              "value": "3122"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT from cp1017.eqiad.wmnet"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html; charset=UTF-8"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 61429,
+            "mimeType": "text/html"
+          },
+          "redirectURL": "",
+          "headersSize": 273,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 182,
+          "receive": 12,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.371Z",
+        "time": 17,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&only=styles&skin=vector&*",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector"
+            },
+            {
+              "name": "only",
+              "value": "styles"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "*",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 292,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 111597,
+            "mimeType": "text/css"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 2,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.371Z",
+        "time": 21,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector&*",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "site"
+            },
+            {
+              "name": "only",
+              "value": "styles"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "*",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 125,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 24082,
+            "mimeType": "text/css"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.371Z",
+        "time": 21,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "startup"
+            },
+            {
+              "name": "only",
+              "value": "scripts"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "*",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 129,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 54359,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.373Z",
+        "time": 25,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/geoiplookup",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 52,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "geoiplookup",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 109,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 26,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.373Z",
+        "time": 49,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hurricane_Madeline_18_oct_1998_2203Z.jpg/100px-Hurricane_Madeline_18_oct_1998_2203Z.jpg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 159,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 4159,
+            "mimeType": "image/jpeg"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.373Z",
+        "time": 49,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/thumb/c/c9/William_Hussey%27s_business_card.PNG/100px-William_Hussey%27s_business_card.PNG",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 146,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 7262,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.373Z",
+        "time": 49,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Jansa_crop.jpg/84px-Jansa_crop.jpg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 101,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 2969,
+            "mimeType": "image/jpeg"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.373Z",
+        "time": 49,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Wallace_at_University_of_Alabama_edit2.jpg/100px-Wallace_at_University_of_Alabama_edit2.jpg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 163,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 3134,
+            "mimeType": "image/jpeg"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.477Z",
+        "time": 517,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Franz_josef_Glacier_LC0250.jpg/325px-Franz_josef_Glacier_LC0250.jpg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "Host",
+              "value": "upload.wikimedia.org"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "If-None-Match",
+              "value": "472ece10888278bf224f24d917c810f4"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "If-Modified-Since",
+              "value": "Sat, 25 May 2013 00:17:39 GMT"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 530,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 304,
+          "statusText": "Not Modified",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Tue, 11 Jun 2013 10:34:36 GMT"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish, 1.1 varnish"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Sat, 25 May 2013 00:17:39 GMT"
+            },
+            {
+              "name": "Age",
+              "value": "1505527"
+            },
+            {
+              "name": "Etag",
+              "value": "472ece10888278bf224f24d917c810f4"
+            },
+            {
+              "name": "X-Cache",
+              "value": "dysprosium hit (5789), dysprosium frontend hit (10592)"
+            },
+            {
+              "name": "X-Varnish",
+              "value": "945327821 301926770, 651659003 637376584"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Timestamp",
+              "value": "1369441059.82080"
+            },
+            {
+              "name": "Content-Disposition",
+              "value": "inline;filename*=UTF-8''Franz_josef_Glacier_LC0250.jpg"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/jpeg"
+            },
+            {
+              "name": "X-Object-Meta-Sha1base36",
+              "value": "ievcc4bc6o58le5d5brj5sjh78cxo2j"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 35643,
+            "mimeType": "image/jpeg"
+          },
+          "redirectURL": "",
+          "headersSize": 586,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": 0,
+          "send": 1,
+          "wait": 404,
+          "receive": 92,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.375Z",
+        "time": 48,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/9/9d/Commons-logo-31px.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 82,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 1694,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.375Z",
+        "time": 48,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/35px-Mediawiki-logo.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 114,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 5628,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.376Z",
+        "time": 48,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/b/bc/Meta-logo-35px.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 79,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 1611,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.376Z",
+        "time": 48,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/7/7f/Wikibooks-logo-35px.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 84,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 1722,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.478Z",
+        "time": 516,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/47px-Wikidata-logo.svg.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "Host",
+              "value": "upload.wikimedia.org"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "If-None-Match",
+              "value": "082a30f478dedf29fff1d10acdb8fb1b"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "If-Modified-Since",
+              "value": "Tue, 19 Feb 2013 18:58:13 GMT"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 507,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 304,
+          "statusText": "Not Modified",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Tue, 11 Jun 2013 10:34:36 GMT"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish, 1.1 varnish"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Tue, 19 Feb 2013 18:58:13 GMT"
+            },
+            {
+              "name": "Age",
+              "value": "1628292"
+            },
+            {
+              "name": "Etag",
+              "value": "082a30f478dedf29fff1d10acdb8fb1b"
+            },
+            {
+              "name": "X-Cache",
+              "value": "dysprosium hit (58022), cp1029 frontend hit (4554)"
+            },
+            {
+              "name": "X-Varnish",
+              "value": "942990403 4187495779, 2670087182 2666893602"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Timestamp",
+              "value": "1361300293.97464"
+            },
+            {
+              "name": "Content-Disposition",
+              "value": "inline;filename*=UTF-8''Wikidata-logo.svg.png"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/png"
+            },
+            {
+              "name": "X-Object-Meta-Sha1base36",
+              "value": "0vmkuhr0hbybuiyfji2z4ivtf1jeaih"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 417,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 575,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": 0,
+          "send": 1,
+          "wait": 400,
+          "receive": 92,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.376Z",
+        "time": 55,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/6/60/Wikinews-logo-51px.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 83,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 2921,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.376Z",
+        "time": 55,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/4/46/Wikiquote-logo-51px.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 84,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 1388,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.376Z",
+        "time": 55,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/b/b6/Wikisource-logo-35px.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 85,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 2280,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.377Z",
+        "time": 55,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/b/bf/Wikispecies-logo-35px.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 86,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 3629,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.377Z",
+        "time": 55,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/e/e3/Wikiversity-logo-41px.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 86,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 1227,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.377Z",
+        "time": 55,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/35px-Wikivoyage-logo.svg.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 120,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 1742,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.377Z",
+        "time": 56,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/f/f2/Wiktionary-logo-51px.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 85,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 478,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.377Z",
+        "time": 56,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/static-1.22wmf5/skins/vector/images/search-ltr.png?303-4",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "303-4",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 97,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 214,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.377Z",
+        "time": 62,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/images/wikimedia-button.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 68,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 2426,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 1,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.377Z",
+        "time": 178,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/static-1.22wmf5/skins/common/images/poweredby_mediawiki_88x31.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 106,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 3525,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.378Z",
+        "time": 21,
+        "request": {
+          "method": "GET",
+          "url": "http://en.wikipedia.org/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&action=raw&ctype=text/javascript&508635914",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "title",
+              "value": "MediaWiki:Gadget-ReferenceTooltips.js"
+            },
+            {
+              "name": "action",
+              "value": "raw"
+            },
+            {
+              "name": "ctype",
+              "value": "text/javascript"
+            },
+            {
+              "name": "508635914",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 137,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 9470,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.378Z",
+        "time": 21,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "site"
+            },
+            {
+              "name": "only",
+              "value": "scripts"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "*",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 126,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 9005,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.420Z",
+        "time": 23,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130527T163243Z",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport"
+            },
+            {
+              "name": "only",
+              "value": "scripts"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "version",
+              "value": "20130527T163243Z"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 254,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 176931,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.554Z",
+        "time": 5,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.cldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cutil%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cwikibase.client.init&skin=vector&version=20130611T103130Z&*",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "ext.centralNotice.bannerController%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.cldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cutil%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cwikibase.client.init"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "version",
+              "value": "20130611T103130Z"
+            },
+            {
+              "name": "*",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 442,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 60150,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.555Z",
+        "time": 4,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.vector.footerCleanup&skin=vector&version=20130611T022021Z&*",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "ext.vector.footerCleanup"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "version",
+              "value": "20130611T022021Z"
+            },
+            {
+              "name": "*",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 158,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 3293,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.968Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAIAAAArRUU2AAAAOklEQVQIHQXBAQEAAAjDIFz/zhdsCyE0y4SQya2RCSGWaYQ2Hc3ahFiINTIh1ly3NRohEwuh0VmmER5oBCM5OFSTKwAAAABJRU5ErkJggg==",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 376,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 115,
+            "mimeType": "image/png",
+            "compression": 128
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.968Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAANAQMAAABb8jbLAAAABlBMVEX///8AUow5QSOjAAAAAXRSTlMAQObYZgAAABNJREFUCB1jYEABBQw/wLCAgQEAGpIDyT0IVcsAAAAASUVORK5CYII=",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 364,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 107,
+            "mimeType": "image/png",
+            "compression": 120
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.969Z",
+        "time": 1,
+        "request": {
+          "method": "GET",
+          "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKICAgdmVyc2lvbj0iMS4xIgogICB3aWR0aD0iMTIiCiAgIGhlaWdodD0iMTMuODM3NDU4IgogICBpZD0ic3ZnMjEwOCI+CiAgPG1ldGFkYXRhCiAgICAgaWQ9Im1ldGFkYXRhNjgiPgogICAgPHJkZjpSREY+CiAgICAgIDxjYzpXb3JrCiAgICAgICAgIHJkZjphYm91dD0iIj4KICAgICAgICA8ZGM6Zm9ybWF0PmltYWdlL3N2Zyt4bWw8L2RjOmZvcm1hdD4KICAgICAgICA8ZGM6dHlwZQogICAgICAgICAgIHJkZjpyZXNvdXJjZT0iaHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0aWxsSW1hZ2UiIC8+CiAgICAgICAgPGRjOnRpdGxlPjwvZGM6dGl0bGU+CiAgICAgIDwvY2M6V29yaz4KICAgIDwvcmRmOlJERj4KICA8L21ldGFkYXRhPgogIDxkZWZzCiAgICAgaWQ9ImRlZnMzIj4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDM1NiI+CiAgICAgIDxzdG9wCiAgICAgICAgIGlkPSJzdG9wNDM1OCIKICAgICAgICAgc3R5bGU9InN0b3AtY29sb3I6IzAwMDAwMDtzdG9wLW9wYWNpdHk6MSIKICAgICAgICAgb2Zmc2V0PSIwIiAvPgogICAgICA8c3RvcAogICAgICAgICBpZD0ic3RvcDQzNjAiCiAgICAgICAgIHN0eWxlPSJzdG9wLWNvbG9yOiMwMDAwMDA7c3RvcC1vcGFjaXR5OjAiCiAgICAgICAgIG9mZnNldD0iMSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDQzNDQiPgogICAgICA8c3RvcAogICAgICAgICBpZD0ic3RvcDQzNDYiCiAgICAgICAgIHN0eWxlPSJzdG9wLWNvbG9yOiM3MjdlMGE7c3RvcC1vcGFjaXR5OjEiCiAgICAgICAgIG9mZnNldD0iMCIgLz4KICAgICAgPHN0b3AKICAgICAgICAgaWQ9InN0b3A0MzQ4IgogICAgICAgICBzdHlsZT0ic3RvcC1jb2xvcjojNWI2NTA4O3N0b3Atb3BhY2l0eToxIgogICAgICAgICBvZmZzZXQ9IjEiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0MzM4Ij4KICAgICAgPHN0b3AKICAgICAgICAgaWQ9InN0b3A0MzQwIgogICAgICAgICBzdHlsZT0ic3RvcC1jb2xvcjojZTliMTVlO3N0b3Atb3BhY2l0eToxIgogICAgICAgICBvZmZzZXQ9IjAiIC8+CiAgICAgIDxzdG9wCiAgICAgICAgIGlkPSJzdG9wNDM0MiIKICAgICAgICAgc3R5bGU9InN0b3AtY29sb3I6Izk2NjQxNjtzdG9wLW9wYWNpdHk6MSIKICAgICAgICAgb2Zmc2V0PSIxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDE2MyI+CiAgICAgIDxzdG9wCiAgICAgICAgIGlkPSJzdG9wNDE2NSIKICAgICAgICAgc3R5bGU9InN0b3AtY29sb3I6IzNiNzRiYztzdG9wLW9wYWNpdHk6MSIKICAgICAgICAgb2Zmc2V0PSIwIiAvPgogICAgICA8c3RvcAogICAgICAgICBpZD0ic3RvcDQxNjciCiAgICAgICAgIHN0eWxlPSJzdG9wLWNvbG9yOiMyZDU5OTA7c3RvcC1vcGFjaXR5OjEiCiAgICAgICAgIG9mZnNldD0iMSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDM4MjQiPgogICAgICA8c3RvcAogICAgICAgICBpZD0ic3RvcDM4MjYiCiAgICAgICAgIHN0eWxlPSJzdG9wLWNvbG9yOiNmZmZmZmY7c3RvcC1vcGFjaXR5OjEiCiAgICAgICAgIG9mZnNldD0iMCIgLz4KICAgICAgPHN0b3AKICAgICAgICAgaWQ9InN0b3AzODI4IgogICAgICAgICBzdHlsZT0ic3RvcC1jb2xvcjojYzljOWM5O3N0b3Atb3BhY2l0eToxIgogICAgICAgICBvZmZzZXQ9IjEiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQzODE2Ij4KICAgICAgPHN0b3AKICAgICAgICAgaWQ9InN0b3AzODE4IgogICAgICAgICBzdHlsZT0ic3RvcC1jb2xvcjojMDAwMDAwO3N0b3Atb3BhY2l0eToxIgogICAgICAgICBvZmZzZXQ9IjAiIC8+CiAgICAgIDxzdG9wCiAgICAgICAgIGlkPSJzdG9wMzgyMCIKICAgICAgICAgc3R5bGU9InN0b3AtY29sb3I6IzAwMDAwMDtzdG9wLW9wYWNpdHk6MCIKICAgICAgICAgb2Zmc2V0PSIxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50MzgwMCI+CiAgICAgIDxzdG9wCiAgICAgICAgIGlkPSJzdG9wMzgwMiIKICAgICAgICAgc3R5bGU9InN0b3AtY29sb3I6I2Y0ZDliMTtzdG9wLW9wYWNpdHk6MSIKICAgICAgICAgb2Zmc2V0PSIwIiAvPgogICAgICA8c3RvcAogICAgICAgICBpZD0ic3RvcDM4MDQiCiAgICAgICAgIHN0eWxlPSJzdG9wLWNvbG9yOiNkZjk3MjU7c3RvcC1vcGFjaXR5OjEiCiAgICAgICAgIG9mZnNldD0iMSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQKICAgICAgIGN4PSIyOS4zNDQ5MzEiCiAgICAgICBjeT0iMTcuMDY0MDc3IgogICAgICAgcj0iOS4xNjIwNTc5IgogICAgICAgZng9IjI5LjM0NDkzMSIKICAgICAgIGZ5PSIxNy4wNjQwNzciCiAgICAgICBpZD0icmFkaWFsR3JhZGllbnQzODA2IgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50MzgwMCIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiAvPgogICAgPHJhZGlhbEdyYWRpZW50CiAgICAgICBjeD0iMzEuMTEyNjk4IgogICAgICAgY3k9IjE5LjAwODYyMSIKICAgICAgIHI9IjguNjYyMDU3OSIKICAgICAgIGZ4PSIzMS4xMTI2OTgiCiAgICAgICBmeT0iMTkuMDA4NjIxIgogICAgICAgaWQ9InJhZGlhbEdyYWRpZW50MzgyMiIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDM4MTYiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeDE9IjMwLjkzNTkyMSIKICAgICAgIHkxPSIyOS41NTM0ODYiCiAgICAgICB4Mj0iMzAuOTM1OTIxIgogICAgICAgeTI9IjM1LjgwMzQ4NiIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDM4MzAiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQzODI0IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIC8+CiAgICA8cmFkaWFsR3JhZGllbnQKICAgICAgIGN4PSIyOC4wODk3NDEiCiAgICAgICBjeT0iMjcuMjAzMDgzIgogICAgICAgcj0iMTMuNTY1MzYiCiAgICAgICBmeD0iMjguMDg5NzQxIgogICAgICAgZnk9IjI3LjIwMzA4MyIKICAgICAgIGlkPSJyYWRpYWxHcmFkaWVudDQxNjkiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0MTYzIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEuMjk3NTY0LDAsMCwwLjg4NDgzMSwtOC4zNTg1MDUsNC45NDA0NjkpIiAvPgogICAgPHJhZGlhbEdyYWRpZW50CiAgICAgICBjeD0iMjkuMzQ0OTMxIgogICAgICAgY3k9IjE3LjA2NDA3NyIKICAgICAgIHI9IjkuMTYyMDU3OSIKICAgICAgIGZ4PSIyOS4zNDQ5MzEiCiAgICAgICBmeT0iMTcuMDY0MDc3IgogICAgICAgaWQ9InJhZGlhbEdyYWRpZW50NDE3MSIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDM4MDAiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMC43ODc5OTgsMCwwLDAuNzg3OTk4LDYuMjIxMTk4LDMuNjE3NjI3KSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeDE9IjMwLjkzNTkyMSIKICAgICAgIHkxPSIyOS41NTM0ODYiCiAgICAgICB4Mj0iMzAuOTM1OTIxIgogICAgICAgeTI9IjM1LjgwMzQ4NiIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDQxNzUiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQzODI0IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDAuNzA3MTA4LDApIiAvPgogICAgPHJhZGlhbEdyYWRpZW50CiAgICAgICBjeD0iMzEuMTEyNjk4IgogICAgICAgY3k9IjE5LjAwODYyMSIKICAgICAgIHI9IjguNjYyMDU3OSIKICAgICAgIGZ4PSIzMS4xMTI2OTgiCiAgICAgICBmeT0iMTkuMDA4NjIxIgogICAgICAgaWQ9InJhZGlhbEdyYWRpZW50NDE3OSIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDM4MTYiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeDE9IjMwLjkzNTkyMSIKICAgICAgIHkxPSIyOS41NTM0ODYiCiAgICAgICB4Mj0iMzAuOTM1OTIxIgogICAgICAgeTI9IjM1LjgwMzQ4NiIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDQzMjYiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQzODI0IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMi40MTc4OSwtNykiIC8+CiAgICA8cmFkaWFsR3JhZGllbnQKICAgICAgIGN4PSIyOS4zNDQ5MzEiCiAgICAgICBjeT0iMTcuMDY0MDc3IgogICAgICAgcj0iOS4xNjIwNTc5IgogICAgICAgZng9IjI5LjM0NDkzMSIKICAgICAgIGZ5PSIxNy4wNjQwNzciCiAgICAgICBpZD0icmFkaWFsR3JhZGllbnQ0MzI4IgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDMzOCIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgwLjc4Nzk5OCwwLDAsMC43ODc5OTgsNi4yMjExOTgsMy42MTc2MjcpIiAvPgogICAgPHJhZGlhbEdyYWRpZW50CiAgICAgICBjeD0iMzEuMTEyNjk4IgogICAgICAgY3k9IjE5LjAwODYyMSIKICAgICAgIHI9IjguNjYyMDU3OSIKICAgICAgIGZ4PSIzMS4xMTI2OTgiCiAgICAgICBmeT0iMTkuMDA4NjIxIgogICAgICAgaWQ9InJhZGlhbEdyYWRpZW50NDMzMCIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDM4MTYiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeDE9IjMwLjkzNTkyMSIKICAgICAgIHkxPSIyOS41NTM0ODYiCiAgICAgICB4Mj0iMzAuOTM1OTIxIgogICAgICAgeTI9IjM1LjgwMzQ4NiIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDQzMzIiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQzODI0IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMy4xMjUsLTcpIiAvPgogICAgPHJhZGlhbEdyYWRpZW50CiAgICAgICBjeD0iMzEuMTEyNjk4IgogICAgICAgY3k9IjE5LjAwODYyMSIKICAgICAgIHI9IjguNjYyMDU3OSIKICAgICAgIGZ4PSIzMS4xMTI2OTgiCiAgICAgICBmeT0iMTkuMDA4NjIxIgogICAgICAgaWQ9InJhZGlhbEdyYWRpZW50NDMzNiIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDM4MTYiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgLz4KICAgIDxyYWRpYWxHcmFkaWVudAogICAgICAgY3g9IjE2LjIxNDc0MSIKICAgICAgIGN5PSIxOS44MzY0NjgiCiAgICAgICByPSIxMy41NjUzNiIKICAgICAgIGZ4PSIxNi4yMTQ3NDEiCiAgICAgICBmeT0iMTkuODM2NDY4IgogICAgICAgaWQ9InJhZGlhbEdyYWRpZW50NDM1MCIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQzNDQiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMC42ODE5MTcsMCw4LjIzMzc3MykiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIHgxPSIyMC42NjE2OTUiCiAgICAgICB5MT0iMzUuODE3OTc0IgogICAgICAgeDI9IjIyLjYyNjkyNSIKICAgICAgIHkyPSIzNi4yMTc3NTgiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0MzYyIgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDM1NiIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgwLjk4MzM3NSwwLjE4MTU4OCwtMC4xODE1ODgsMC45ODMzNzUsNi4yMzE3MTYsLTIuNjUxNDY2KSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeDE9IjIyLjY4Njc2NiIKICAgICAgIHkxPSIzNi4zOTA0IgogICAgICAgeDI9IjIxLjQwODQ1NSIKICAgICAgIHkyPSIzNS43Mzk2MzIiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0MzY2IgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDM1NiIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgtMC45Nzc2ODUsMC4yMTAwNzUsMC4yMTAwNzUsMC45Nzc2ODUsNTUuMTA5NiwtMy45NDUyMDkpIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICB4MT0iMjAuNjYxNjk1IgogICAgICAgeTE9IjM1LjgxNzk3NCIKICAgICAgIHgyPSIyMi42MjY5MjUiCiAgICAgICB5Mj0iMzYuMjE3NzU4IgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDM3MiIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQzNTYiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMC45ODMzNzUsMC4xODE1ODgsLTAuMTgxNTg4LDAuOTgzMzc1LC03LjA3MjEyLC05LjgyNDkyKSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeDE9IjIyLjY4Njc2NiIKICAgICAgIHkxPSIzNi4zOTA0IgogICAgICAgeDI9IjIxLjQwODQ1NSIKICAgICAgIHkyPSIzNS43Mzk2MzIiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0Mzc0IgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDM1NiIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgtMC45Nzc2ODUsMC4yMTAwNzUsMC4yMTAwNzUsMC45Nzc2ODUsNDEuODA1NzYsLTExLjExODY2KSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeDE9IjIyLjY4Njc2NiIKICAgICAgIHkxPSIzNi4zOTA0IgogICAgICAgeDI9IjIxLjQwODQ1NSIKICAgICAgIHkyPSIzNS43Mzk2MzIiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQxMzY2IgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDM1NiIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgtMC45Nzc2ODUsMC4yMTAwNzUsMC4yMTAwNzUsMC45Nzc2ODUsNDEuODA1NzYsLTExLjExODY2KSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeDE9IjIwLjY2MTY5NSIKICAgICAgIHkxPSIzNS44MTc5NzQiCiAgICAgICB4Mj0iMjIuNjI2OTI1IgogICAgICAgeTI9IjM2LjIxNzc1OCIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDEzNjkiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0MzU2IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDAuOTgzMzc1LDAuMTgxNTg4LC0wLjE4MTU4OCwwLjk4MzM3NSwtNy4wNzIxMiwtOS44MjQ5MikiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIHgxPSIzMC45MzU5MjEiCiAgICAgICB5MT0iMjkuNTUzNDg2IgogICAgICAgeDI9IjMwLjkzNTkyMSIKICAgICAgIHkyPSIzNS44MDM0ODYiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQxMzcyIgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50MzgyNCIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgtMTIuNDE3ODksLTcpIiAvPgogICAgPHJhZGlhbEdyYWRpZW50CiAgICAgICBjeD0iMTYuMjE0NzQxIgogICAgICAgY3k9IjE5LjgzNjQ2OCIKICAgICAgIHI9IjEzLjU2NTM2IgogICAgICAgZng9IjE2LjIxNDc0MSIKICAgICAgIGZ5PSIxOS44MzY0NjgiCiAgICAgICBpZD0icmFkaWFsR3JhZGllbnQxMzgxIgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDM0NCIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgxLDAsMCwwLjY4MTkxNywwLDguMjMzNzczKSIgLz4KICAgIDxyYWRpYWxHcmFkaWVudAogICAgICAgY3g9IjMxLjExMjY5OCIKICAgICAgIGN5PSIxOS4wMDg2MjEiCiAgICAgICByPSI4LjY2MjA1NzkiCiAgICAgICBmeD0iMzEuMTEyNjk4IgogICAgICAgZnk9IjE5LjAwODYyMSIKICAgICAgIGlkPSJyYWRpYWxHcmFkaWVudDIyNDMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQzODE2IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIC8+CiAgICA8cmFkaWFsR3JhZGllbnQKICAgICAgIGN4PSIyOC4wODk3NDEiCiAgICAgICBjeT0iMjcuMjAzMDgzIgogICAgICAgcj0iMTMuNTY1MzYiCiAgICAgICBmeD0iMjguMDg5NzQxIgogICAgICAgZnk9IjI3LjIwMzA4MyIKICAgICAgIGlkPSJyYWRpYWxHcmFkaWVudDIyNDUiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0MTYzIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEuMjk3NTY0LDAsMCwwLjg4NDgzMSwtOC4zNTg1MDUsNC45NDA0NjkpIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICB4MT0iMzAuOTM1OTIxIgogICAgICAgeTE9IjI5LjU1MzQ4NiIKICAgICAgIHgyPSIzMC45MzU5MjEiCiAgICAgICB5Mj0iMzUuODAzNDg2IgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50MjI0NyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDM4MjQiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgLz4KICAgIDxyYWRpYWxHcmFkaWVudAogICAgICAgY3g9IjMxLjExMjY5OCIKICAgICAgIGN5PSIxOS4wMDg2MjEiCiAgICAgICByPSI4LjY2MjA1NzkiCiAgICAgICBmeD0iMzEuMTEyNjk4IgogICAgICAgZnk9IjE5LjAwODYyMSIKICAgICAgIGlkPSJyYWRpYWxHcmFkaWVudDIyNDkiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQzODE2IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIC8+CiAgICA8cmFkaWFsR3JhZGllbnQKICAgICAgIGN4PSIyOS4zNDQ5MzEiCiAgICAgICBjeT0iMTcuMDY0MDc3IgogICAgICAgcj0iOS4xNjIwNTc5IgogICAgICAgZng9IjI5LjM0NDkzMSIKICAgICAgIGZ5PSIxNy4wNjQwNzciCiAgICAgICBpZD0icmFkaWFsR3JhZGllbnQyMjUxIgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50MzgwMCIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgwLjc4Nzk5OCwwLDAsMC43ODc5OTgsNi4yMjExOTgsMy42MTc2MjcpIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICB4MT0iMjAuNjYxNjk1IgogICAgICAgeTE9IjM1LjgxNzk3NCIKICAgICAgIHgyPSIyMi42MjY5MjUiCiAgICAgICB5Mj0iMzYuMjE3NzU4IgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50MjI1MyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQzNTYiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMC45ODMzNzUsMC4xODE1ODgsLTAuMTgxNTg4LDAuOTgzMzc1LDYuMjMxNzE2LC0yLjY1MTQ2NikiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIHgxPSIyMi42ODY3NjYiCiAgICAgICB5MT0iMzYuMzkwNCIKICAgICAgIHgyPSIyMS40MDg0NTUiCiAgICAgICB5Mj0iMzUuNzM5NjMyIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50MjI1NSIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQzNTYiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoLTAuOTc3Njg1LDAuMjEwMDc1LDAuMjEwMDc1LDAuOTc3Njg1LDU1LjEwOTYsLTMuOTQ1MjA5KSIgLz4KICA8L2RlZnM+CiAgPGcKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNS4wMDAwMDM5LC0zMi4wNzAxMTIpIgogICAgIGlkPSJsYXllcjEiCiAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lIiAvPgogIDxnCiAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTUuMDAwMDAzOSwtMzIuMDcwMTEyKSIKICAgICBpZD0ibGF5ZXIyIgogICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZSI+CiAgICA8ZwogICAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMC4zOTAxMjc5MywwLDAsMC4zOTAxMjc5MywtMS4wODkxNTc4LDI4LjIyOTc5KSIKICAgICAgIGlkPSJnMjIzMCI+CiAgICAgIDxwYXRoCiAgICAgICAgIGQ9Im0gMzkuNzc0NzU1LDE5LjAwODYyMSBhIDguNjYyMDU3OSw4LjY2MjA1NzkgMCAxIDEgLTE3LjMyNDExNSwwIDguNjYyMDU3OSw4LjY2MjA1NzkgMCAxIDEgMTcuMzI0MTE1LDAgeiIKICAgICAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS43NzU1MSwwLDAsMC45NTkxODMsLTI0LjI1MzIyLDE4Ljc3MTUzKSIKICAgICAgICAgaWQ9InBhdGg0MzA2IgogICAgICAgICBzdHlsZT0iY29sb3I6IzAwMDAwMDtmaWxsOnVybCgjcmFkaWFsR3JhZGllbnQyMjQzKTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MXB4O21hcmtlcjpub25lO3Zpc2liaWxpdHk6dmlzaWJsZTtkaXNwbGF5OmlubGluZTtvdmVyZmxvdzp2aXNpYmxlIiAvPgogICAgICA8cGF0aAogICAgICAgICBkPSJtIDI1Ljk4NjE3NCw0MS42MzYwMzkgMTAuNjA2NjAyLDAgYyAzLjAwNTIwNCwwIDUuOTgwNDg0LC0xLjEwMTkzMiA3LjA3MTA2NywtNC4yNDI2NDEgMS4wMzU2MzksLTIuOTgyNDc2IDAuMTc2Nzc3LC04LjY2MjA1OCAtNi41NDA3MzcsLTEzLjI1ODI1MiBsIC0xMi41NTExNDYsMCBjIC02LjcxNzUxNCw0LjI0MjY0IC03LjU1Njk5MSwxMC4wNDQ4MzEgLTYuMDEwNDA3LDEzLjQzNTAyOCAxLjU3NTU5NSwzLjQ1Mzc5IDQuMjQyNjQsNC4wNjU4NjUgNy40MjQ2MjEsNC4wNjU4NjUgeiIKICAgICAgICAgaWQ9InBhdGg0MzA4IgogICAgICAgICBzdHlsZT0iY29sb3I6IzAwMDAwMDtmaWxsOnVybCgjcmFkaWFsR3JhZGllbnQyMjQ1KTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6IzIwNGE4NztzdHJva2Utd2lkdGg6MXB4O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1vcGFjaXR5OjE7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1kYXNob2Zmc2V0OjA7bWFya2VyOm5vbmU7dmlzaWJpbGl0eTp2aXNpYmxlO2Rpc3BsYXk6aW5saW5lO292ZXJmbG93OnZpc2libGUiIC8+CiAgICAgIDxwYXRoCiAgICAgICAgIGQ9Im0gMjYuNjkzMjgxLDI1LjcyNjEzNiBjIDMuMTgxOTgsMi44Mjg0MjcgNC41OTYxOTQsMTMuMDgxNDc2IDQuNTk2MTk0LDEzLjA4MTQ3NiAwLDAgMS40MTQyMTMsLTEwLjI1MzA0OCAzLjg4OTA4NywtMTMuMjU4MjUyIGwgLTguNDg1MjgxLDAuMTc2Nzc2IHoiCiAgICAgICAgIGlkPSJwYXRoNDMxMCIKICAgICAgICAgc3R5bGU9ImNvbG9yOiMwMDAwMDA7ZmlsbDp1cmwoI2xpbmVhckdyYWRpZW50MjI0Nyk7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjFweDttYXJrZXI6bm9uZTt2aXNpYmlsaXR5OnZpc2libGU7ZGlzcGxheTppbmxpbmU7b3ZlcmZsb3c6dmlzaWJsZSIgLz4KICAgICAgPHBhdGgKICAgICAgICAgZD0ibSAyOC45NzI3MjEsMjYuNzg2Nzk3IGMgMCwwIC0yLjE1MTMyMywxLjY2MDMzNSAtMS45NjU5OTEsMy42NjA1MzMgLTIuMDQxMjI2LC0xLjgwMDc5NCAtMi4wOTk4NzMsLTUuMjUxNTI0IC0yLjA5OTg3MywtNS4yNTE1MjQgbCA0LjA2NTg2NCwxLjU5MDk5MSB6IgogICAgICAgICBpZD0icGF0aDQzMTIiCiAgICAgICAgIHN0eWxlPSJjb2xvcjojMDAwMDAwO2ZpbGw6IzcyOWZjZjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MXB4O21hcmtlcjpub25lO3Zpc2liaWxpdHk6dmlzaWJsZTtkaXNwbGF5OmlubGluZTtvdmVyZmxvdzp2aXNpYmxlIiAvPgogICAgICA8cGF0aAogICAgICAgICBkPSJtIDI1LjkxNDg2Miw0MC41OTM5MzMgMTAuNDkzNDQ3LC0wLjAyMjEgYyAyLjYzOTcyMywwIDUuMjUzMTYxLC0wLjk2NzkxOSA2LjIxMTExMiwtMy43MjY2NjcgMC45MDk2ODksLTIuNjE5NzYgLTAuMDk0NzIsLTcuNjA4NjE0IC01Ljk5NTI3OSwtMTEuNjQ1ODM3IEwgMjUuMDk5NDE3LDI0Ljk1NjI2NCBjIC01LjkwMDU1NywzLjcyNjY2NyAtNy4wNDI2Miw4LjgyMzIxOSAtNS42NjIwMjksMTIuMDQ0MTgyIDEuMzgwNTkyLDMuMjIwOTYzIDMuMzk1MjExLDMuNTcxMzkgNi40Nzc0NzQsMy41OTM0ODcgeiIKICAgICAgICAgaWQ9InBhdGg0MzE0IgogICAgICAgICBzdHlsZT0ib3BhY2l0eTowLjIxNTE4OTg2O2NvbG9yOiMwMDAwMDA7ZmlsbDpub25lO3N0cm9rZTojZmZmZmZmO3N0cm9rZS13aWR0aDowLjk5OTk5OTc2cHg7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLW9wYWNpdHk6MTtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLWRhc2hvZmZzZXQ6MDttYXJrZXI6bm9uZTt2aXNpYmlsaXR5OnZpc2libGU7ZGlzcGxheTppbmxpbmU7b3ZlcmZsb3c6dmlzaWJsZSIgLz4KICAgICAgPHBhdGgKICAgICAgICAgZD0ibSAzMy40MTA3OTUsMjYuNzg2Nzk3IGMgMCwwIDIuMTUxMzIzLDEuNjYwMzM1IDEuOTY1OTkxLDMuNjYwNTMzIDIuMDQxMjI2LC0xLjgwMDc5NCAyLjA5OTg3MywtNS4yNTE1MjQgMi4wOTk4NzMsLTUuMjUxNTI0IGwgLTQuMDY1ODY0LDEuNTkwOTkxIHoiCiAgICAgICAgIGlkPSJwYXRoNDMxNiIKICAgICAgICAgc3R5bGU9ImNvbG9yOiMwMDAwMDA7ZmlsbDojNzI5ZmNmO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoxcHg7bWFya2VyOm5vbmU7dmlzaWJpbGl0eTp2aXNpYmxlO2Rpc3BsYXk6aW5saW5lO292ZXJmbG93OnZpc2libGUiIC8+CiAgICAgIDxwYXRoCiAgICAgICAgIGQ9Im0gMzkuNzc0NzU1LDE5LjAwODYyMSBhIDguNjYyMDU3OSw4LjY2MjA1NzkgMCAxIDEgLTE3LjMyNDExNSwwIDguNjYyMDU3OSw4LjY2MjA1NzkgMCAxIDEgMTcuMzI0MTE1LDAgeiIKICAgICAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTAuMTI1LDMuNSkiCiAgICAgICAgIGlkPSJwYXRoNDMxOCIKICAgICAgICAgc3R5bGU9ImNvbG9yOiMwMDAwMDA7ZmlsbDp1cmwoI3JhZGlhbEdyYWRpZW50MjI0OSk7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjFweDttYXJrZXI6bm9uZTt2aXNpYmlsaXR5OnZpc2libGU7ZGlzcGxheTppbmxpbmU7b3ZlcmZsb3c6dmlzaWJsZSIgLz4KICAgICAgPHBhdGgKICAgICAgICAgZD0ibSAzOS43NzQ3NTUsMTkuMDA4NjIxIGEgOC42NjIwNTc5LDguNjYyMDU3OSAwIDEgMSAtMTcuMzI0MTE1LDAgOC42NjIwNTc5LDguNjYyMDU3OSAwIDEgMSAxNy4zMjQxMTUsMCB6IgogICAgICAgICBpZD0icGF0aDQzMjAiCiAgICAgICAgIHN0eWxlPSJjb2xvcjojMDAwMDAwO2ZpbGw6dXJsKCNyYWRpYWxHcmFkaWVudDIyNTEpO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZTojYzE3ZDExO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLW9wYWNpdHk6MTtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLWRhc2hvZmZzZXQ6MDttYXJrZXI6bm9uZTt2aXNpYmlsaXR5OnZpc2libGU7ZGlzcGxheTppbmxpbmU7b3ZlcmZsb3c6dmlzaWJsZSIgLz4KICAgICAgPHBhdGgKICAgICAgICAgZD0ibSAzOS43NzQ3NTUsMTkuMDA4NjIxIGEgOC42NjIwNTc5LDguNjYyMDU3OSAwIDEgMSAtMTcuMzI0MTE1LDAgOC42NjIwNTc5LDguNjYyMDU3OSAwIDEgMSAxNy4zMjQxMTUsMCB6IgogICAgICAgICB0cmFuc2Zvcm09Im1hdHJpeCgwLjg3NzA5NSwwLDAsMC44NzcwOTUsMy44MjM5MjcsMi4zMzYyNjcpIgogICAgICAgICBpZD0icGF0aDQzMjIiCiAgICAgICAgIHN0eWxlPSJvcGFjaXR5OjAuMTk2MjAyNTQ7Y29sb3I6IzAwMDAwMDtmaWxsOm5vbmU7c3Ryb2tlOiNmZmZmZmY7c3Ryb2tlLXdpZHRoOjEuMTQwMTI4MjVweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2Utb3BhY2l0eToxO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2UtZGFzaG9mZnNldDowO21hcmtlcjpub25lO3Zpc2liaWxpdHk6dmlzaWJsZTtkaXNwbGF5OmlubGluZTtvdmVyZmxvdzp2aXNpYmxlIiAvPgogICAgICA8cGF0aAogICAgICAgICBkPSJtIDIxLjg1MTc5LDQwLjc3NTE5NyBjIC0xLjI0NzYwNywtMC41NDQ5NjkgLTEuODA1OTk0LC0xLjg1ODI3NyAtMS44MDU5OTQsLTEuODU4Mjc3IDAuODQxMjgxLC00LjA2OTEzNiAzLjcxOTkyNSwtNy4wNDYyMTYgMy43MTk5MjUsLTcuMDQ2MjE2IDAsMCAtMi4yNzkzMjEsNi40MTE1MTQgLTEuOTEzOTMxLDguOTA0NDkzIHoiCiAgICAgICAgIGlkPSJwYXRoNDM1NCIKICAgICAgICAgc3R5bGU9Im9wYWNpdHk6MC4yMjc4NDgwNztjb2xvcjojMDAwMDAwO2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDIyNTMpO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoxcHg7bWFya2VyOm5vbmU7dmlzaWJpbGl0eTp2aXNpYmxlO2Rpc3BsYXk6aW5saW5lO292ZXJmbG93OnZpc2libGUiIC8+CiAgICAgIDxwYXRoCiAgICAgICAgIGQ9Im0gNDAuNzU3NDk3LDM5LjkxNjg0NiBjIDEuMjMxMjUxLC0wLjU4MDk3OCAxLjgwNDM4LC0yLjAwMjMyMSAxLjgwNDM4LC0yLjAwMjMyMSAtMC45NTkxMiwtNC4wNDI5ODMgLTMuOTc2MTQ5LC02Ljg0MjgyMSAtMy45NzYxNDksLTYuODQyODIxIDAsMCAyLjQ2NDU5Myw2LjM0MjYwMiAyLjE3MTc2OSw4Ljg0NTE0MiB6IgogICAgICAgICBpZD0icGF0aDQzNjQiCiAgICAgICAgIHN0eWxlPSJvcGFjaXR5OjAuMjI3ODQ4MDc7Y29sb3I6IzAwMDAwMDtmaWxsOnVybCgjbGluZWFyR3JhZGllbnQyMjU1KTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MXB4O21hcmtlcjpub25lO3Zpc2liaWxpdHk6dmlzaWJsZTtkaXNwbGF5OmlubGluZTtvdmVyZmxvdzp2aXNpYmxlIiAvPgogICAgPC9nPgogIDwvZz4KPC9zdmc+Cg==",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 21616,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 16042,
+            "mimeType": "image/svg+xml",
+            "compression": 16055
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 1,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.979Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAARElEQVR4XmVO0QqAQAwy//+P87QjGUf0IDo3ZZREAD84eXkZ5YDBRQcFwpXv3kW1N4/GmZXe326/xnf9ya8zzy/NtusBX91B1f55qzcAAAAASUVORK5CYII=",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 388,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 125,
+            "mimeType": "image/png",
+            "compression": 138
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.979Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkAQAAAABvV2fNAAAADUlEQVQIHWNoYBgWEACJ5TIB0K9KcAAAAABJRU5ErkJggg==",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 316,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 70,
+            "mimeType": "image/png",
+            "compression": 83
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.979Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAIAAADITs03AAAAPElEQVR4XuWK2xEAIAzCsPvv5DSu0ahX3yv4wQVyGGCSvg2dnJvduT8sz/IwKOIfjCi2z/76FhHeJcslVZQFLUC06LZ/AAAAAElFTkSuQmCC",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 376,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 117,
+            "mimeType": "image/png",
+            "compression": 130
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.979Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQBAMAAADgw5IVAAAAD1BMVEXz+fuamprd3d15eXmxsbG+1Cf6AAAAAXRSTlMAQObYZgAAACZJREFUCFtjYKAaYBI2NjYWgnIUjY0NFRASMGGgBFwYKOEEZ5ILAABbAqkPJqHJAAAAAElFTkSuQmCC",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 400,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 135,
+            "mimeType": "image/png",
+            "compression": 148
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.980Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQCAIAAABY/YLgAAAAJUlEQVQIHQXBsQEAAAjDoND/73UWdnerhmHVsDQZJrNWVg3Dqge6bgMe6bejNAAAAABJRU5ErkJggg==",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 348,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 94,
+            "mimeType": "image/png",
+            "compression": 107
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.645Z",
+        "time": 336,
+        "request": {
+          "method": "GET",
+          "url": "http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 69,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 19670,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.980Z",
+        "time": 1,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAAAAAAphRnkAAAAJ0lEQVQIW7XFsQEAIAyAMPD/b7uLWz8wS5youFW1UREfiIpH1Q2VBz7fGPS1dOGeAAAAAElFTkSuQmCC",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 348,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 96,
+            "mimeType": "image/png",
+            "compression": 109
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 1,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.846Z",
+        "time": 224,
+        "request": {
+          "method": "GET",
+          "url": "http://meta.wikimedia.org/wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=true&bucket=1&country=IT&device=desktop&slot=17",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "Host",
+              "value": "meta.wikimedia.org"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "uselang",
+              "value": "en"
+            },
+            {
+              "name": "sitename",
+              "value": "Wikipedia"
+            },
+            {
+              "name": "project",
+              "value": "wikipedia"
+            },
+            {
+              "name": "anonymous",
+              "value": "true"
+            },
+            {
+              "name": "bucket",
+              "value": "1"
+            },
+            {
+              "name": "country",
+              "value": "IT"
+            },
+            {
+              "name": "device",
+              "value": "desktop"
+            },
+            {
+              "name": "slot",
+              "value": "17"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 464,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.0",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Tue, 11 Jun 2013 10:32:09 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "HIT from cp1012.eqiad.wmnet:3128"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "MISS from cp1007.eqiad.wmnet:80"
+            },
+            {
+              "name": "Server",
+              "value": "Apache"
+            },
+            {
+              "name": "Age",
+              "value": "147"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT from cp1012.eqiad.wmnet"
+            },
+            {
+              "name": "X-Cache",
+              "value": "MISS from cp1007.eqiad.wmnet"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/javascript; charset=utf-8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "private, s-maxage=0, max-age=0, must-revalidate"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "42"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 22,
+            "mimeType": "text/javascript",
+            "compression": -20
+          },
+          "redirectURL": "",
+          "headersSize": 492,
+          "bodySize": 42
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 174,
+          "receive": 48,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.805Z",
+        "time": 189,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.articleFeedbackv5.startup%7Cext.eventLogging%2CmarkAsHelpful%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cjquery.articleFeedbackv5.utils%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2CdelayedBind%2Chidpi%2ChighlightText%2Cjson%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.Title%2Capi%2Chidpi%2CsearchSuggest%2Cuser%7Cmediawiki.action.view.postEdit%7Cmediawiki.page.ready%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.GettingStartedNavbar%2CNavigationTiming%7Cskins.vector.js&skin=vector&version=20130611T022021Z&*",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "ext.articleFeedbackv5.startup%7Cext.eventLogging%2CmarkAsHelpful%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cjquery.articleFeedbackv5.utils%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2CdelayedBind%2Chidpi%2ChighlightText%2Cjson%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.Title%2Capi%2Chidpi%2CsearchSuggest%2Cuser%7Cmediawiki.action.view.postEdit%7Cmediawiki.page.ready%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.GettingStartedNavbar%2CNavigationTiming%7Cskins.vector.js"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "version",
+              "value": "20130611T022021Z"
+            },
+            {
+              "name": "*",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 759,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 98073,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.806Z",
+        "time": 189,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.vector.collapsibleNav%2CcollapsibleTabs%7Cjquery.collapsibleTabs&skin=vector&version=20130611T022021Z&*",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "ext.vector.collapsibleNav%2CcollapsibleTabs%7Cjquery.collapsibleTabs"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "version",
+              "value": "20130611T022021Z"
+            },
+            {
+              "name": "*",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 202,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 12965,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:36.807Z",
+        "time": 188,
+        "request": {
+          "method": "GET",
+          "url": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130527T163016Z&*",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "debug",
+              "value": "false"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "modules",
+              "value": "jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget"
+            },
+            {
+              "name": "skin",
+              "value": "vector"
+            },
+            {
+              "name": "version",
+              "value": "20130527T163016Z"
+            },
+            {
+              "name": "*",
+              "value": ""
+            }
+          ],
+          "cookies": [],
+          "headersSize": 218,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 151422,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:37.199Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAS1BMVEXb29vy8vLv7+/c3NzZ2dni4uLr6+vt7e3s7Ozw8PDn5+fj4+Ph4eHd3d3f39/o6Ojl5eXp6enx8fHa2trg4ODq6urk5OTz8/PY2NjolWftAAAAO0lEQVR4XrXAhwGAMAgEQB5I71X3n9QpPHqAGZidt2e02G8yedciQkv1/YPqIpFSdzbp9tjGsd4xhwl8yuMKHhkJhm8AAAAASUVORK5CYII=",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 492,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 203,
+            "mimeType": "image/png",
+            "compression": 216
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:37.200Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX////d3d2ampqxsbF5eXmCtCYvAAAAAXRSTlMAQObYZgAAADBJREFUeF6dzNEJACAMA1HdINQJCp1Ebv+ZlLYLaD4f4cbnDNi6MAO8KCHJ+7X02j3mzgMQe93HcQAAAABJRU5ErkJggg==",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 416,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 145,
+            "mimeType": "image/png",
+            "compression": 158
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:37.200Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAADFBMVEX///95eXnd3d2dnZ3aAo3QAAAAAXRSTlMAQObYZgAAADFJREFUeF5dyzEKACAMA0CXolNe2Id09Kl5igZahWY4AiGjZwmIuS9GEcJfY63Ix88Bol4EYP1O7JMAAAAASUVORK5CYII=",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 412,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 143,
+            "mimeType": "image/png",
+            "compression": 156
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:37.222Z",
+        "time": 146,
+        "request": {
+          "method": "GET",
+          "url": "http://meta.wikimedia.org/wiki/Special:RecordImpression?result=hide&reason=empty&country=IT&uselang=en&project=wikipedia&db=enwiki&bucket=1&anonymous=true&device=desktop",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "Referer",
+              "value": "http://en.wikipedia.org/wiki/Main_Page"
+            },
+            {
+              "name": "Host",
+              "value": "meta.wikimedia.org"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "result",
+              "value": "hide"
+            },
+            {
+              "name": "reason",
+              "value": "empty"
+            },
+            {
+              "name": "country",
+              "value": "IT"
+            },
+            {
+              "name": "uselang",
+              "value": "en"
+            },
+            {
+              "name": "project",
+              "value": "wikipedia"
+            },
+            {
+              "name": "db",
+              "value": "enwiki"
+            },
+            {
+              "name": "bucket",
+              "value": "1"
+            },
+            {
+              "name": "anonymous",
+              "value": "true"
+            },
+            {
+              "name": "device",
+              "value": "desktop"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 476,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.0",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Tue, 11 Jun 2013 10:31:26 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "HIT from cp1011.eqiad.wmnet:3128"
+            },
+            {
+              "name": "X-Cache-Lookup",
+              "value": "HIT from cp1007.eqiad.wmnet:80"
+            },
+            {
+              "name": "Server",
+              "value": "Apache"
+            },
+            {
+              "name": "Age",
+              "value": "191"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT from cp1011.eqiad.wmnet"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT from cp1007.eqiad.wmnet"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/png"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "private, s-maxage=0, max-age=0, must-revalidate"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "20"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "image/png",
+            "compression": -20
+          },
+          "redirectURL": "",
+          "headersSize": 469,
+          "bodySize": 20
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 1,
+          "wait": 141,
+          "receive": 3,
+          "ssl": -1
+        },
+        "pageref": "page_4"
+      }
+    ]
+  }
+}

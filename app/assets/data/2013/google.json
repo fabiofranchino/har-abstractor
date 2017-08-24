@@ -1,0 +1,1931 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2013-06-11T10:34:11.553Z",
+        "id": "page_3",
+        "title": "https://www.google.it/search?q=wikipedia&oq=wiki&aqs=chrome.0.0j5j57j65j60l2.1363j0&sourceid=chrome&ie=UTF-8",
+        "pageTimings": {
+          "onContentLoad": 3730,
+          "onLoad": 4360
+        }
+      }
+    ],
+    "entries": [
+      {
+        "startedDateTime": "2013-06-11T10:34:11.553Z",
+        "time": 3653,
+        "request": {
+          "method": "GET",
+          "url": "https://www.google.it/search?q=wikipedia&oq=wiki&aqs=chrome.0.0j5j57j65j60l2.1363j0&sourceid=chrome&ie=UTF-8",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": ":host",
+              "value": "www.google.it"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            },
+            {
+              "name": "x-chrome-uma-enabled",
+              "value": "1"
+            },
+            {
+              "name": ":path",
+              "value": "/search?q=wikipedia&oq=wiki&aqs=chrome.0.0j5j57j65j60l2.1363j0&sourceid=chrome&ie=UTF-8"
+            },
+            {
+              "name": "accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            },
+            {
+              "name": ":version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "cookie",
+              "value": "MPRF=H4sIAAAAAAAAAKvYsXNu13b1LiaGSUwKhmkplhZGZubGJokWFhaJqZaGyaYGicYpJqYGqSmmRmYTmBkAKESLYDAAAAA; PREF=ID=1667f48e409ac747:U=7c4618b3a3b153b5:FF=4:LD=en:NR=50:TM=1260523215:LM=1358687990:S=84aPh2cBgulqg68y; SID=DQAAAEYBAAAGr7P2uXrJApxn5-OSGxrF8gkBJup7NQj9o1-1snQlraaZXHBnKDk5z0Td-trEGeiP58lfLC27Rrc_i9Koqe8ch_L6LQFrg4aHSrfggdouHNy3wT3xB-FlAtychmmn5g2aD0ObxjRMSPaI7sMvr2fPf4Pt2PjQBJChkdmPpfba-SdgEXTyXh4OAPIxn0K4J9FeFJTFNMdVfECFS1HzuaCxHLqXH40GHD3mU6p9BXWVC3LlHZLK6z3kmJLmTkUYVI2p_KqkxlRK1OaOzmguNhVmLlpwIYifjN81pFTV0CfwDTfRGIiK8xGWM7UHqKehV-t-pcaKkF1uc9D57sYM9NjJ_LXPxty0dNkyMc4n-FJuWbe05_u2RmkYUwlj1OPZYBGuqwQzQ0PEYR_jop5whLcRscn4hS9tafOY9YOlJgJ_fzvoeZ9I9AyZ88KUdbjkm-w; HSID=AyYphooOUQrfOe8A3; SSID=A5e1vvuO1S1uTW4_H; APISID=q-y2sZ6PyvtR0ZSM/AIxFUFxDpWiafh-pc; SAPISID=68Hy7C733byLnL1k/AUlv7ybUTZTGqjT8D; NID=67=VKIRJGym8Y2hWsk5QGeRxDJFclb68zMf5SYW2fDqISI8ZckfLkb8PTU54PL-ZjTD0_DEIhzZZr6GBbvIMQI4MooxzjNg5A61wSd4bsjMIqPl9gTqCIVIYTAMZXMVNEebXAGe6ISKPRYqb7tf4x4W9CeOLic2qfbv8KDlk3w-JqJHtoN3zX2Tod1_RYTnu3gPTHrzsgeMhDrTuhzK-Nr34hHompMEOGGOweZrOS-pTwLXWusJId1TCmE"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": "x-chrome-variations",
+              "value": "CIO2yQEIj7bJAQietskBCKO2yQEIqLbJAQiptskBCLy2yQEI74PKAQiOhMoBCPuEygEIwoXKAQjQhcoB"
+            },
+            {
+              "name": ":method",
+              "value": "GET"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "q",
+              "value": "wikipedia"
+            },
+            {
+              "name": "oq",
+              "value": "wiki"
+            },
+            {
+              "name": "aqs",
+              "value": "chrome.0.0j5j57j65j60l2.1363j0"
+            },
+            {
+              "name": "sourceid",
+              "value": "chrome"
+            },
+            {
+              "name": "ie",
+              "value": "UTF-8"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "MPRF",
+              "value": "H4sIAAAAAAAAAKvYsXNu13b1LiaGSUwKhmkplhZGZubGJokWFhaJqZaGyaYGicYpJqYGqSmmRmYTmBkAKESLYDAAAAA",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "PREF",
+              "value": "ID=1667f48e409ac747:U=7c4618b3a3b153b5:FF=4:LD=en:NR=50:TM=1260523215:LM=1358687990:S=84aPh2cBgulqg68y",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SID",
+              "value": "DQAAAEYBAAAGr7P2uXrJApxn5-OSGxrF8gkBJup7NQj9o1-1snQlraaZXHBnKDk5z0Td-trEGeiP58lfLC27Rrc_i9Koqe8ch_L6LQFrg4aHSrfggdouHNy3wT3xB-FlAtychmmn5g2aD0ObxjRMSPaI7sMvr2fPf4Pt2PjQBJChkdmPpfba-SdgEXTyXh4OAPIxn0K4J9FeFJTFNMdVfECFS1HzuaCxHLqXH40GHD3mU6p9BXWVC3LlHZLK6z3kmJLmTkUYVI2p_KqkxlRK1OaOzmguNhVmLlpwIYifjN81pFTV0CfwDTfRGIiK8xGWM7UHqKehV-t-pcaKkF1uc9D57sYM9NjJ_LXPxty0dNkyMc4n-FJuWbe05_u2RmkYUwlj1OPZYBGuqwQzQ0PEYR_jop5whLcRscn4hS9tafOY9YOlJgJ_fzvoeZ9I9AyZ88KUdbjkm-w",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "HSID",
+              "value": "AyYphooOUQrfOe8A3",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SSID",
+              "value": "A5e1vvuO1S1uTW4_H",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "APISID",
+              "value": "q-y2sZ6PyvtR0ZSM/AIxFUFxDpWiafh-pc",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SAPISID",
+              "value": "68Hy7C733byLnL1k/AUlv7ybUTZTGqjT8D",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "NID",
+              "value": "67=VKIRJGym8Y2hWsk5QGeRxDJFclb68zMf5SYW2fDqISI8ZckfLkb8PTU54PL-ZjTD0_DEIhzZZr6GBbvIMQI4MooxzjNg5A61wSd4bsjMIqPl9gTqCIVIYTAMZXMVNEebXAGe6ISKPRYqb7tf4x4W9CeOLic2qfbv8KDlk3w-JqJHtoN3zX2Tod1_RYTnu3gPTHrzsgeMhDrTuhzK-Nr34hHompMEOGGOweZrOS-pTwLXWusJId1TCmE",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 1766,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "date",
+              "value": "Tue, 11 Jun 2013 10:34:11 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "server",
+              "value": "gws"
+            },
+            {
+              "name": "version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "x-frame-options",
+              "value": "SAMEORIGIN"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {
+              "name": "status",
+              "value": "200 OK"
+            },
+            {
+              "name": "cache-control",
+              "value": "private, max-age=0"
+            },
+            {
+              "name": "get-dictionary",
+              "value": "/sdch/DG3Scl3G.dct"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "expires",
+              "value": "-1"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 248229,
+            "mimeType": "text/html",
+            "compression": 248543
+          },
+          "redirectURL": "",
+          "headersSize": 314,
+          "bodySize": -314
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 1,
+          "wait": 458,
+          "receive": 3193,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.106Z",
+        "time": 112,
+        "request": {
+          "method": "GET",
+          "url": "https://ssl.gstatic.com/gb/images/k1_a31af7ac.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 64,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 11983,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.131Z",
+        "time": 91,
+        "request": {
+          "method": "GET",
+          "url": "https://lh6.googleusercontent.com/-MvaqJYteFLI/AAAAAAAAAAI/AAAAAAAAAAA/cy6RsFjZxqM/s27-c/photo.jpg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 113,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 987,
+            "mimeType": "image/jpeg"
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.157Z",
+        "time": 70,
+        "request": {
+          "method": "GET",
+          "url": "https://ssl.gstatic.com/ui/v1/zippy/arrow_down.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 65,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 94,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.157Z",
+        "time": 69,
+        "request": {
+          "method": "GET",
+          "url": "https://www.google.it/images/nav_logo129.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 59,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 34525,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.425Z",
+        "time": 381,
+        "request": {
+          "method": "GET",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKzFQn88G5UczubYyMvkcjKji1mKxdE5I-e84Eqkhbm94xCPrXcjfB42fAO4jV6rp7vdi6DTV",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": ":host",
+              "value": "encrypted-tbn0.gstatic.com"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            },
+            {
+              "name": ":path",
+              "value": "/images?q=tbn:ANd9GcTSKzFQn88G5UczubYyMvkcjKji1mKxdE5I-e84Eqkhbm94xCPrXcjfB42fAO4jV6rp7vdi6DTV"
+            },
+            {
+              "name": "accept",
+              "value": "*/*"
+            },
+            {
+              "name": ":version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "referer",
+              "value": "https://www.google.it/"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": ":method",
+              "value": "GET"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "q",
+              "value": "tbn:ANd9GcTSKzFQn88G5UczubYyMvkcjKji1mKxdE5I-e84Eqkhbm94xCPrXcjfB42fAO4jV6rp7vdi6DTV"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 580,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "date",
+              "value": "Mon, 10 Jun 2013 17:15:10 GMT"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "last-modified",
+              "value": "Tue, 04 Jun 2013 14:01:00 GMT"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "age",
+              "value": "62345"
+            },
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {
+              "name": "status",
+              "value": "200 OK"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-length",
+              "value": "1602"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "expires",
+              "value": "Tue, 10 Jun 2014 17:15:10 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 1602,
+            "mimeType": "image/jpeg",
+            "compression": 87
+          },
+          "redirectURL": "",
+          "headersSize": 358,
+          "bodySize": 1515
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": 157,
+          "send": -105,
+          "wait": 26,
+          "receive": 196,
+          "ssl": 105
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.302Z",
+        "time": 52,
+        "request": {
+          "method": "GET",
+          "url": "https://www.google.it/xjs/_/js/k=xjs.s.en_US.h6ozd5YZptc.O/m=c,sb_sri,cr,cdos,epb,jp,vm,tbui,mb,wobnm,cfm,abd,kat,bihu,kp,lu,m,tnv,amcl,erh,hv,lc,ob,r,rsn,sf,sfa,shb,srl,tbpr,hsm,j,p,pcc,csi/am=wA/rt=j/d=1/sv=1/rs=AItRSTM2unpMZmY1BF2Kv0jh4JhRUZ3pvg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 263,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 549578,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 49,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.556Z",
+        "time": 257,
+        "request": {
+          "method": "GET",
+          "url": "https://www.google.it/extern_chrome/875c595eb05bbff3.js?ie=UTF-8&bav=on.2,or.r_cp.r_qf.",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [
+            {
+              "name": "ie",
+              "value": "UTF-8"
+            },
+            {
+              "name": "bav",
+              "value": "on.2,or.r_cp.r_qf."
+            }
+          ],
+          "cookies": [],
+          "headersSize": 102,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 98586,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.562Z",
+        "time": 252,
+        "request": {
+          "method": "GET",
+          "url": "https://www.google.it/xjs/_/js/k=xjs.s.en_US.h6ozd5YZptc.O/m=gf,adp,wta,sy39,sy29,sy30,sy40,sy31,sy34,sy37,sy41,sy44,sy42,sy43,sy47,sy45,sy28,sy70,sy35,sy46,sy48,sy68,sy38,sy69,sy75,sy84,sy85,sy86,sy87,llc,aspn,sy111,an,skp,adct,sy55,sy88,async,dob,foot,sy136,vs/am=wA/rt=j/d=0/sv=1/rs=AItRSTM2unpMZmY1BF2Kv0jh4JhRUZ3pvg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 335,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 172678,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.632Z",
+        "time": 193,
+        "request": {
+          "method": "GET",
+          "url": "https://www.google.com/textinputassistant/tia.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 64,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 387,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.825Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/gif;base64,R0lGODlhFQAVAMIEAAMGAkFDQHN1csnLx////////////////yH5BAEKAAQALAAAAAAVABUAAANJSLrc/kQAICCUk1qX827d9DEhMC7lqaQqe7pQYBIsEDzSEHXVoDm+yu6XiwF0Dd8N4qMgBxgkUxYKSDfQieD6mqlQ3i8tLP4kAAA7",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://www.google.it/"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 380,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 132,
+            "mimeType": "image/gif",
+            "compression": 145
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.826Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://www.google.it/"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 268,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 0,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 43,
+            "mimeType": "image/gif",
+            "compression": 56
+          },
+          "redirectURL": "",
+          "headersSize": 13,
+          "bodySize": -13
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.722Z",
+        "time": 105,
+        "request": {
+          "method": "GET",
+          "url": "https://www.google.it/client_204?&atyp=i&biw=1405&bih=618&ei=I_22Udj9KKuQ4gSegYG4CQ",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": ":host",
+              "value": "www.google.it"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            },
+            {
+              "name": "x-chrome-uma-enabled",
+              "value": "1"
+            },
+            {
+              "name": ":path",
+              "value": "/client_204?&atyp=i&biw=1405&bih=618&ei=I_22Udj9KKuQ4gSegYG4CQ"
+            },
+            {
+              "name": "accept",
+              "value": "*/*"
+            },
+            {
+              "name": ":version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "referer",
+              "value": "https://www.google.it/"
+            },
+            {
+              "name": "cookie",
+              "value": "MPRF=H4sIAAAAAAAAAKvYsXNu13b1LiaGSUwKhmkplhZGZubGJokWFhaJqZaGyaYGicYpJqYGqSmmRmYTmBkAKESLYDAAAAA; PREF=ID=1667f48e409ac747:U=7c4618b3a3b153b5:FF=4:LD=en:NR=50:TM=1260523215:LM=1358687990:S=84aPh2cBgulqg68y; SID=DQAAAEYBAAAGr7P2uXrJApxn5-OSGxrF8gkBJup7NQj9o1-1snQlraaZXHBnKDk5z0Td-trEGeiP58lfLC27Rrc_i9Koqe8ch_L6LQFrg4aHSrfggdouHNy3wT3xB-FlAtychmmn5g2aD0ObxjRMSPaI7sMvr2fPf4Pt2PjQBJChkdmPpfba-SdgEXTyXh4OAPIxn0K4J9FeFJTFNMdVfECFS1HzuaCxHLqXH40GHD3mU6p9BXWVC3LlHZLK6z3kmJLmTkUYVI2p_KqkxlRK1OaOzmguNhVmLlpwIYifjN81pFTV0CfwDTfRGIiK8xGWM7UHqKehV-t-pcaKkF1uc9D57sYM9NjJ_LXPxty0dNkyMc4n-FJuWbe05_u2RmkYUwlj1OPZYBGuqwQzQ0PEYR_jop5whLcRscn4hS9tafOY9YOlJgJ_fzvoeZ9I9AyZ88KUdbjkm-w; HSID=AyYphooOUQrfOe8A3; SSID=A5e1vvuO1S1uTW4_H; APISID=q-y2sZ6PyvtR0ZSM/AIxFUFxDpWiafh-pc; SAPISID=68Hy7C733byLnL1k/AUlv7ybUTZTGqjT8D; NID=67=VKIRJGym8Y2hWsk5QGeRxDJFclb68zMf5SYW2fDqISI8ZckfLkb8PTU54PL-ZjTD0_DEIhzZZr6GBbvIMQI4MooxzjNg5A61wSd4bsjMIqPl9gTqCIVIYTAMZXMVNEebXAGe6ISKPRYqb7tf4x4W9CeOLic2qfbv8KDlk3w-JqJHtoN3zX2Tod1_RYTnu3gPTHrzsgeMhDrTuhzK-Nr34hHompMEOGGOweZrOS-pTwLXWusJId1TCmE"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": "x-chrome-variations",
+              "value": "CIO2yQEIj7bJAQietskBCKO2yQEIqLbJAQiptskBCLy2yQEI74PKAQiOhMoBCPuEygEIwoXKAQjQhcoB"
+            },
+            {
+              "name": ":method",
+              "value": "GET"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "",
+              "value": ""
+            },
+            {
+              "name": "atyp",
+              "value": "i"
+            },
+            {
+              "name": "biw",
+              "value": "1405"
+            },
+            {
+              "name": "bih",
+              "value": "618"
+            },
+            {
+              "name": "ei",
+              "value": "I_22Udj9KKuQ4gSegYG4CQ"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "MPRF",
+              "value": "H4sIAAAAAAAAAKvYsXNu13b1LiaGSUwKhmkplhZGZubGJokWFhaJqZaGyaYGicYpJqYGqSmmRmYTmBkAKESLYDAAAAA",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "PREF",
+              "value": "ID=1667f48e409ac747:U=7c4618b3a3b153b5:FF=4:LD=en:NR=50:TM=1260523215:LM=1358687990:S=84aPh2cBgulqg68y",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SID",
+              "value": "DQAAAEYBAAAGr7P2uXrJApxn5-OSGxrF8gkBJup7NQj9o1-1snQlraaZXHBnKDk5z0Td-trEGeiP58lfLC27Rrc_i9Koqe8ch_L6LQFrg4aHSrfggdouHNy3wT3xB-FlAtychmmn5g2aD0ObxjRMSPaI7sMvr2fPf4Pt2PjQBJChkdmPpfba-SdgEXTyXh4OAPIxn0K4J9FeFJTFNMdVfECFS1HzuaCxHLqXH40GHD3mU6p9BXWVC3LlHZLK6z3kmJLmTkUYVI2p_KqkxlRK1OaOzmguNhVmLlpwIYifjN81pFTV0CfwDTfRGIiK8xGWM7UHqKehV-t-pcaKkF1uc9D57sYM9NjJ_LXPxty0dNkyMc4n-FJuWbe05_u2RmkYUwlj1OPZYBGuqwQzQ0PEYR_jop5whLcRscn4hS9tafOY9YOlJgJ_fzvoeZ9I9AyZ88KUdbjkm-w",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "HSID",
+              "value": "AyYphooOUQrfOe8A3",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SSID",
+              "value": "A5e1vvuO1S1uTW4_H",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "APISID",
+              "value": "q-y2sZ6PyvtR0ZSM/AIxFUFxDpWiafh-pc",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SAPISID",
+              "value": "68Hy7C733byLnL1k/AUlv7ybUTZTGqjT8D",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "NID",
+              "value": "67=VKIRJGym8Y2hWsk5QGeRxDJFclb68zMf5SYW2fDqISI8ZckfLkb8PTU54PL-ZjTD0_DEIhzZZr6GBbvIMQI4MooxzjNg5A61wSd4bsjMIqPl9gTqCIVIYTAMZXMVNEebXAGe6ISKPRYqb7tf4x4W9CeOLic2qfbv8KDlk3w-JqJHtoN3zX2Tod1_RYTnu3gPTHrzsgeMhDrTuhzK-Nr34hHompMEOGGOweZrOS-pTwLXWusJId1TCmE",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 1689,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 204,
+          "statusText": "No Content",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "date",
+              "value": "Tue, 11 Jun 2013 10:34:15 GMT"
+            },
+            {
+              "name": "server",
+              "value": "gws"
+            },
+            {
+              "name": "x-frame-options",
+              "value": "SAMEORIGIN"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {
+              "name": "status",
+              "value": "204 No Content"
+            },
+            {
+              "name": "content-length",
+              "value": "0"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "version",
+              "value": "HTTP/1.1"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "text/html",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 241,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 1,
+          "wait": 47,
+          "receive": 56,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.913Z",
+        "time": 83,
+        "request": {
+          "method": "GET",
+          "url": "https://www.google.it/gen_204?v=3&s=web&action=&srt=2393&p=s&npn=1&e=31216,3300099,3300111,3300126,3300131,3300136,3300137,3300156,3310063,3310094,3310203,3310274,3310288,4000116,4001350,4001948,4003242,4003710,4004320,4004334,4004788,4004844,4004897,4004949,4004953,4004972,4005031,4005613,4005818,4005865,4005875,4005878,4005987,4006037,4006191,4006339,4006426,4006442,4006456,4006466,4006604,4006727,4006977,4007007,4007009,4007055,4007073,4007077,4007080,4007117,4007118,4007131,4007132,4007158,4007217,4007225,4007229,4007296,4007311,4007322,4007328,4007404,4007418,4007425,4007445,4007488,4007533,4007566&ei=I_22Udj9KKuQ4gSegYG4CQ&imc=8&imn=8&imp=1&atyp=csi&adh=&rt=xjsls.2659,prt.2660,xjses.2922,xjsee.3153,xjs.3244,ol.3326,iml.3245,wsrt.2353,cst.0,dnst.0,rqst.3652,rspt.3193",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": ":host",
+              "value": "www.google.it"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            },
+            {
+              "name": "x-chrome-uma-enabled",
+              "value": "1"
+            },
+            {
+              "name": ":path",
+              "value": "/gen_204?v=3&s=web&action=&srt=2393&p=s&npn=1&e=31216,3300099,3300111,3300126,3300131,3300136,3300137,3300156,3310063,3310094,3310203,3310274,3310288,4000116,4001350,4001948,4003242,4003710,4004320,4004334,4004788,4004844,4004897,4004949,4004953,4004972,4005031,4005613,4005818,4005865,4005875,4005878,4005987,4006037,4006191,4006339,4006426,4006442,4006456,4006466,4006604,4006727,4006977,4007007,4007009,4007055,4007073,4007077,4007080,4007117,4007118,4007131,4007132,4007158,4007217,4007225,4007229,4007296,4007311,4007322,4007328,4007404,4007418,4007425,4007445,4007488,4007533,4007566&ei=I_22Udj9KKuQ4gSegYG4CQ&imc=8&imn=8&imp=1&atyp=csi&adh=&rt=xjsls.2659,prt.2660,xjses.2922,xjsee.3153,xjs.3244,ol.3326,iml.3245,wsrt.2353,cst.0,dnst.0,rqst.3652,rspt.3193"
+            },
+            {
+              "name": "accept",
+              "value": "*/*"
+            },
+            {
+              "name": ":version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "referer",
+              "value": "https://www.google.it/"
+            },
+            {
+              "name": "cookie",
+              "value": "MPRF=H4sIAAAAAAAAAKvYsXNu13b1LiaGSUwKhmkplhZGZubGJokWFhaJqZaGyaYGicYpJqYGqSmmRmYTmBkAKESLYDAAAAA; PREF=ID=1667f48e409ac747:U=7c4618b3a3b153b5:FF=4:LD=en:NR=50:TM=1260523215:LM=1358687990:S=84aPh2cBgulqg68y; SID=DQAAAEYBAAAGr7P2uXrJApxn5-OSGxrF8gkBJup7NQj9o1-1snQlraaZXHBnKDk5z0Td-trEGeiP58lfLC27Rrc_i9Koqe8ch_L6LQFrg4aHSrfggdouHNy3wT3xB-FlAtychmmn5g2aD0ObxjRMSPaI7sMvr2fPf4Pt2PjQBJChkdmPpfba-SdgEXTyXh4OAPIxn0K4J9FeFJTFNMdVfECFS1HzuaCxHLqXH40GHD3mU6p9BXWVC3LlHZLK6z3kmJLmTkUYVI2p_KqkxlRK1OaOzmguNhVmLlpwIYifjN81pFTV0CfwDTfRGIiK8xGWM7UHqKehV-t-pcaKkF1uc9D57sYM9NjJ_LXPxty0dNkyMc4n-FJuWbe05_u2RmkYUwlj1OPZYBGuqwQzQ0PEYR_jop5whLcRscn4hS9tafOY9YOlJgJ_fzvoeZ9I9AyZ88KUdbjkm-w; HSID=AyYphooOUQrfOe8A3; SSID=A5e1vvuO1S1uTW4_H; APISID=q-y2sZ6PyvtR0ZSM/AIxFUFxDpWiafh-pc; SAPISID=68Hy7C733byLnL1k/AUlv7ybUTZTGqjT8D; NID=67=VKIRJGym8Y2hWsk5QGeRxDJFclb68zMf5SYW2fDqISI8ZckfLkb8PTU54PL-ZjTD0_DEIhzZZr6GBbvIMQI4MooxzjNg5A61wSd4bsjMIqPl9gTqCIVIYTAMZXMVNEebXAGe6ISKPRYqb7tf4x4W9CeOLic2qfbv8KDlk3w-JqJHtoN3zX2Tod1_RYTnu3gPTHrzsgeMhDrTuhzK-Nr34hHompMEOGGOweZrOS-pTwLXWusJId1TCmE"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": "x-chrome-variations",
+              "value": "CIO2yQEIj7bJAQietskBCKO2yQEIqLbJAQiptskBCLy2yQEI74PKAQiOhMoBCPuEygEIwoXKAQjQhcoB"
+            },
+            {
+              "name": ":method",
+              "value": "GET"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "v",
+              "value": "3"
+            },
+            {
+              "name": "s",
+              "value": "web"
+            },
+            {
+              "name": "action",
+              "value": ""
+            },
+            {
+              "name": "srt",
+              "value": "2393"
+            },
+            {
+              "name": "p",
+              "value": "s"
+            },
+            {
+              "name": "npn",
+              "value": "1"
+            },
+            {
+              "name": "e",
+              "value": "31216,3300099,3300111,3300126,3300131,3300136,3300137,3300156,3310063,3310094,3310203,3310274,3310288,4000116,4001350,4001948,4003242,4003710,4004320,4004334,4004788,4004844,4004897,4004949,4004953,4004972,4005031,4005613,4005818,4005865,4005875,4005878,4005987,4006037,4006191,4006339,4006426,4006442,4006456,4006466,4006604,4006727,4006977,4007007,4007009,4007055,4007073,4007077,4007080,4007117,4007118,4007131,4007132,4007158,4007217,4007225,4007229,4007296,4007311,4007322,4007328,4007404,4007418,4007425,4007445,4007488,4007533,4007566"
+            },
+            {
+              "name": "ei",
+              "value": "I_22Udj9KKuQ4gSegYG4CQ"
+            },
+            {
+              "name": "imc",
+              "value": "8"
+            },
+            {
+              "name": "imn",
+              "value": "8"
+            },
+            {
+              "name": "imp",
+              "value": "1"
+            },
+            {
+              "name": "atyp",
+              "value": "csi"
+            },
+            {
+              "name": "adh",
+              "value": ""
+            },
+            {
+              "name": "rt",
+              "value": "xjsls.2659,prt.2660,xjses.2922,xjsee.3153,xjs.3244,ol.3326,iml.3245,wsrt.2353,cst.0,dnst.0,rqst.3652,rspt.3193"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "MPRF",
+              "value": "H4sIAAAAAAAAAKvYsXNu13b1LiaGSUwKhmkplhZGZubGJokWFhaJqZaGyaYGicYpJqYGqSmmRmYTmBkAKESLYDAAAAA",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "PREF",
+              "value": "ID=1667f48e409ac747:U=7c4618b3a3b153b5:FF=4:LD=en:NR=50:TM=1260523215:LM=1358687990:S=84aPh2cBgulqg68y",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SID",
+              "value": "DQAAAEYBAAAGr7P2uXrJApxn5-OSGxrF8gkBJup7NQj9o1-1snQlraaZXHBnKDk5z0Td-trEGeiP58lfLC27Rrc_i9Koqe8ch_L6LQFrg4aHSrfggdouHNy3wT3xB-FlAtychmmn5g2aD0ObxjRMSPaI7sMvr2fPf4Pt2PjQBJChkdmPpfba-SdgEXTyXh4OAPIxn0K4J9FeFJTFNMdVfECFS1HzuaCxHLqXH40GHD3mU6p9BXWVC3LlHZLK6z3kmJLmTkUYVI2p_KqkxlRK1OaOzmguNhVmLlpwIYifjN81pFTV0CfwDTfRGIiK8xGWM7UHqKehV-t-pcaKkF1uc9D57sYM9NjJ_LXPxty0dNkyMc4n-FJuWbe05_u2RmkYUwlj1OPZYBGuqwQzQ0PEYR_jop5whLcRscn4hS9tafOY9YOlJgJ_fzvoeZ9I9AyZ88KUdbjkm-w",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "HSID",
+              "value": "AyYphooOUQrfOe8A3",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SSID",
+              "value": "A5e1vvuO1S1uTW4_H",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "APISID",
+              "value": "q-y2sZ6PyvtR0ZSM/AIxFUFxDpWiafh-pc",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SAPISID",
+              "value": "68Hy7C733byLnL1k/AUlv7ybUTZTGqjT8D",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "NID",
+              "value": "67=VKIRJGym8Y2hWsk5QGeRxDJFclb68zMf5SYW2fDqISI8ZckfLkb8PTU54PL-ZjTD0_DEIhzZZr6GBbvIMQI4MooxzjNg5A61wSd4bsjMIqPl9gTqCIVIYTAMZXMVNEebXAGe6ISKPRYqb7tf4x4W9CeOLic2qfbv8KDlk3w-JqJHtoN3zX2Tod1_RYTnu3gPTHrzsgeMhDrTuhzK-Nr34hHompMEOGGOweZrOS-pTwLXWusJId1TCmE",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 3087,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 204,
+          "statusText": "No Content",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "date",
+              "value": "Tue, 11 Jun 2013 10:34:15 GMT"
+            },
+            {
+              "name": "server",
+              "value": "gws"
+            },
+            {
+              "name": "x-frame-options",
+              "value": "SAMEORIGIN"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {
+              "name": "status",
+              "value": "204 No Content"
+            },
+            {
+              "name": "content-length",
+              "value": "0"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "version",
+              "value": "HTTP/1.1"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "text/html",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 241,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 1,
+          "wait": 73,
+          "receive": 8,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:15.928Z",
+        "time": 70,
+        "request": {
+          "method": "GET",
+          "url": "https://ssl.gstatic.com/gb/js/smm_c2d007c1285e516b7e1bc1ccdfd9e6b6.js",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 84,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 94149,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 68,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:16.075Z",
+        "time": 284,
+        "request": {
+          "method": "POST",
+          "url": "https://plus.google.com/u/0/_/n/gcosuc?origin=https%3A%2F%2Fwww.google.it",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": ":host",
+              "value": "plus.google.com"
+            },
+            {
+              "name": ":version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "origin",
+              "value": "https://www.google.it"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "x-chrome-uma-enabled",
+              "value": "1"
+            },
+            {
+              "name": "x-chrome-variations",
+              "value": "CIO2yQEIj7bJAQietskBCKO2yQEIqLbJAQiptskBCLy2yQEI74PKAQiOhMoBCPuEygEIwoXKAQjQhcoB"
+            },
+            {
+              "name": "cookie",
+              "value": "WCSID=DQAAAM0AAABFE9YLrRoFVUbOlgfWPtrdF8TLy1s5yeSWVobEZFVOVIC3RrXnjC99q7UQkhjA9siC1Ew49G4XvUPG95gGIZOAP1i4hOaUYbjvGtlxLxA8l-czRbASgbfnrXpDiVkldSmr-9cdGlDF6RA_rCPcey2hG6nPWd7fw7P6mVR4gT-4MNwS8NxlCXwOoxSAwGGFMEnwjgStsAgn6CRJGBEMnX29UEFkcM6BGGe5qMDBintiH1-xsIzLiMhXzKWw4izxlztEpRVE9ea3rgYAi9wZ4jYt; PREF=ID=78091ed2ee76916b:U=ee3def0c7c791794:FF=4:LD=en:TM=1260523213:LM=1359927882:DV=sTIUytipGDoC:GM=1:S=gtG9vxBBZgO6-48j; SS=DQAAAMwAAAD9lTD5mCtTN0j-lRgoNSm3DcWZVfYCA1YYNlUC-HH3_DoD7jU6TSoZatp0rOQZ-HisU7lVMKfqopjUINf1elqyjHEbTbhVRv7P0M26TgR2rnTE8Upmkj_YS_3PrjoimKYKSt0Wj6UxnRXSrg4NdGAvcCwNZqb1eUOQ4c30FAhdmvURc59Stzx2ejpO-fsZd7SAG10cFdyKgLNwHYAAt1c3kRmyGCPGiNOFrlIz1rWIM-6EC5u_9jaVuRlfVxk0UkfUpHJxvu3QmuXeiMVQIlNT; NID=67=U1aQTHEYCMMgrD_xd67SKllIE-fCk1IqI2ravXOBt3lomwkaWL3locfO-KBHqOUUEVRjVKs3N6V_5giutRshHDcB6BaktyFnngtg8MoFSy4wR5lzEatTZvJS-xaG0yqTM5Sb-H0E7Tm56HnKVtfJ6_So98xvIiMyU-i4fuRsdsL3io0EnZVu2pzi1QcsfJyr79cDDJ1K22MQ9xmdoDkXeyxK5Ehgg_G4BLgpE2qQ_-LjwzL4qDh6xSkJhyEuLZXi3WYbHouWbH9XdMx7hqD2hT-CGWxk7z3l-F8; HSID=A7UN521z-GSpa5X9N; SSID=AHyF89jMZfcRNRJsY; APISID=U3L66j0ieFwA96p1/AIxFUFxDpWiafh-pc; SAPISID=jl0_xOIB6aMfNukt/AUlv7ybUTZTGqjT8D; OTZ=1810678_48_52_123900_48_436380; SID=DQAAAEYBAAAGr7P2uXrJApxn5-OSGxrFzjq4_KKpExUnb6787ZY41bOYiDD20tTRSAKM_ezQ_Cd5oNA-RAMCErujC-4kAVK_O9e8ikWwwZNFz0_d2_PuohCfxADQQ7RMIz6vJf79w5G28lndRuAiq4_elIbJO5b4RmGzdX8O6tG-Cgt3YMRQDTPujzKRpVB3cXgOgrXal3gNCAkqYGw_OcX01g5JZ3LcbYPNQa5V-e2WNJIczkFRyyCIl-ECjDcdH0wqMCAw1ykMxqVErVad7hx3bub8S9CRKExtWvf_teG6x2VZMDqdglDBpc48W7_3L0OiXYCoBR0WHfL2F4PUKlfz1fWtOWwUoydC8_ga0cce_d9YON9Cj9ZcTGb7DPQlKwu_q6HHOHvRxdb1FB-MkWZ9H5_lIL3amCV33bgvxLDnqmVmoKOgDibIvasf81hQyIUbzzlva0k"
+            },
+            {
+              "name": "content-length",
+              "value": "109"
+            },
+            {
+              "name": ":path",
+              "value": "/u/0/_/n/gcosuc?origin=https%3A%2F%2Fwww.google.it"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            },
+            {
+              "name": "content-type",
+              "value": "application/x-www-form-urlencoded"
+            },
+            {
+              "name": "accept",
+              "value": "*/*"
+            },
+            {
+              "name": "referer",
+              "value": "https://www.google.it/"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": ":method",
+              "value": "POST"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "origin",
+              "value": "https%3A%2F%2Fwww.google.it"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "WCSID",
+              "value": "DQAAAM0AAABFE9YLrRoFVUbOlgfWPtrdF8TLy1s5yeSWVobEZFVOVIC3RrXnjC99q7UQkhjA9siC1Ew49G4XvUPG95gGIZOAP1i4hOaUYbjvGtlxLxA8l-czRbASgbfnrXpDiVkldSmr-9cdGlDF6RA_rCPcey2hG6nPWd7fw7P6mVR4gT-4MNwS8NxlCXwOoxSAwGGFMEnwjgStsAgn6CRJGBEMnX29UEFkcM6BGGe5qMDBintiH1-xsIzLiMhXzKWw4izxlztEpRVE9ea3rgYAi9wZ4jYt",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "PREF",
+              "value": "ID=78091ed2ee76916b:U=ee3def0c7c791794:FF=4:LD=en:TM=1260523213:LM=1359927882:DV=sTIUytipGDoC:GM=1:S=gtG9vxBBZgO6-48j",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SS",
+              "value": "DQAAAMwAAAD9lTD5mCtTN0j-lRgoNSm3DcWZVfYCA1YYNlUC-HH3_DoD7jU6TSoZatp0rOQZ-HisU7lVMKfqopjUINf1elqyjHEbTbhVRv7P0M26TgR2rnTE8Upmkj_YS_3PrjoimKYKSt0Wj6UxnRXSrg4NdGAvcCwNZqb1eUOQ4c30FAhdmvURc59Stzx2ejpO-fsZd7SAG10cFdyKgLNwHYAAt1c3kRmyGCPGiNOFrlIz1rWIM-6EC5u_9jaVuRlfVxk0UkfUpHJxvu3QmuXeiMVQIlNT",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "NID",
+              "value": "67=U1aQTHEYCMMgrD_xd67SKllIE-fCk1IqI2ravXOBt3lomwkaWL3locfO-KBHqOUUEVRjVKs3N6V_5giutRshHDcB6BaktyFnngtg8MoFSy4wR5lzEatTZvJS-xaG0yqTM5Sb-H0E7Tm56HnKVtfJ6_So98xvIiMyU-i4fuRsdsL3io0EnZVu2pzi1QcsfJyr79cDDJ1K22MQ9xmdoDkXeyxK5Ehgg_G4BLgpE2qQ_-LjwzL4qDh6xSkJhyEuLZXi3WYbHouWbH9XdMx7hqD2hT-CGWxk7z3l-F8",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "HSID",
+              "value": "A7UN521z-GSpa5X9N",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SSID",
+              "value": "AHyF89jMZfcRNRJsY",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "APISID",
+              "value": "U3L66j0ieFwA96p1/AIxFUFxDpWiafh-pc",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SAPISID",
+              "value": "jl0_xOIB6aMfNukt/AUlv7ybUTZTGqjT8D",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "OTZ",
+              "value": "1810678_48_52_123900_48_436380",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SID",
+              "value": "DQAAAEYBAAAGr7P2uXrJApxn5-OSGxrFzjq4_KKpExUnb6787ZY41bOYiDD20tTRSAKM_ezQ_Cd5oNA-RAMCErujC-4kAVK_O9e8ikWwwZNFz0_d2_PuohCfxADQQ7RMIz6vJf79w5G28lndRuAiq4_elIbJO5b4RmGzdX8O6tG-Cgt3YMRQDTPujzKRpVB3cXgOgrXal3gNCAkqYGw_OcX01g5JZ3LcbYPNQa5V-e2WNJIczkFRyyCIl-ECjDcdH0wqMCAw1ykMxqVErVad7hx3bub8S9CRKExtWvf_teG6x2VZMDqdglDBpc48W7_3L0OiXYCoBR0WHfL2F4PUKlfz1fWtOWwUoydC8_ga0cce_d9YON9Cj9ZcTGb7DPQlKwu_q6HHOHvRxdb1FB-MkWZ9H5_lIL3amCV33bgvxLDnqmVmoKOgDibIvasf81hQyIUbzzlva0k",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 2358,
+          "bodySize": 109,
+          "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "ntok=APfa0bqjilO1sX63tVPrl9UwbbUdXETE5idHReVhPBh_YXuei-kdMKeC7kBXc-1TM6Nk_ML04xcRXGUps6At5eYhonWYLymkSQ%3D%3D",
+            "params": [
+              {
+                "name": "ntok",
+                "value": "APfa0bqjilO1sX63tVPrl9UwbbUdXETE5idHReVhPBh_YXuei-kdMKeC7kBXc-1TM6Nk_ML04xcRXGUps6At5eYhonWYLymkSQ%3D%3D"
+              }
+            ]
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "date",
+              "value": "Tue, 11 Jun 2013 10:34:16 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "p3p",
+              "value": "CP=\"This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info.\""
+            },
+            {
+              "name": "status",
+              "value": "200 OK"
+            },
+            {
+              "name": "content-disposition",
+              "value": "attachment; filename=\"json.txt\"; filename*=UTF-8''json.txt"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "x-ua-compatible",
+              "value": "IE=edge, chrome=1"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "server",
+              "value": "GSE"
+            },
+            {
+              "name": "x-frame-options",
+              "value": "SAMEORIGIN"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://www.google.it"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "set-cookie",
+              "value": "SID=DQAAAEUBAAAGr7P2uXrJApxn5-OSGxrFlFuSv_h-XFFbk92Wo0TmCiMVGbvGHHWA-vH8ljZkutNx6L0n4pMFazOTbTQApE2mAHQ3l4LZzfcg8EjLorqLTMMgV1t0x5LlskyjcGs7dinEGJFUSaicltph55UX2gbHj07GK4rPnTDB1AnWHQBW3IVmSzqWGmh5kYcZNXuZRkvuUwOKublMI326ftWIM0j4VNcomxmdXCL5x8f9ngMyfr7SFjxnXkuhTsbr_wq16HXkdtBtfN4XopC_6pWB4g-cZ9LDuZ1-AqTkzvD9DuKiq8SwpVsCW46GbZlDDwaq50DIF5e9bjJTMDdETC8jmGGDHYOJrCjKk1KYLxZ5j50o56B_sv7kv-BStllfaKaFfMzucFzlbjmaknIdwstYnIK2uxXX_71w7l6U5PEQIVftHV_wKTPWu1izxwbwjyFiLpM;Domain=.google.com;Path=/;Expires=Thu, 11-Jun-2015 10:34:16 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "SID",
+              "value": "DQAAAEUBAAAGr7P2uXrJApxn5-OSGxrFlFuSv_h-XFFbk92Wo0TmCiMVGbvGHHWA-vH8ljZkutNx6L0n4pMFazOTbTQApE2mAHQ3l4LZzfcg8EjLorqLTMMgV1t0x5LlskyjcGs7dinEGJFUSaicltph55UX2gbHj07GK4rPnTDB1AnWHQBW3IVmSzqWGmh5kYcZNXuZRkvuUwOKublMI326ftWIM0j4VNcomxmdXCL5x8f9ngMyfr7SFjxnXkuhTsbr_wq16HXkdtBtfN4XopC_6pWB4g-cZ9LDuZ1-AqTkzvD9DuKiq8SwpVsCW46GbZlDDwaq50DIF5e9bjJTMDdETC8jmGGDHYOJrCjKk1KYLxZ5j50o56B_sv7kv-BStllfaKaFfMzucFzlbjmaknIdwstYnIK2uxXX_71w7l6U5PEQIVftHV_wKTPWu1izxwbwjyFiLpM",
+              "path": "/",
+              "domain": ".google.com",
+              "expires": "2015-06-11T10:34:16.000Z",
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 43,
+            "mimeType": "application/json",
+            "compression": -99
+          },
+          "redirectURL": "",
+          "headersSize": 1270,
+          "bodySize": 142
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": 57,
+          "send": -41,
+          "wait": 220,
+          "receive": 5,
+          "ssl": 42
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:16.363Z",
+        "time": 15,
+        "request": {
+          "method": "GET",
+          "url": "https://ssl.gstatic.com/gb/js/abc/gci_91f30755d6a6b787dcc2a4062e6e9824.js",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 88,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 2141,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 6,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:16.366Z",
+        "time": 17,
+        "request": {
+          "method": "GET",
+          "url": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.YwZcwvhQD7M.O/m=googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/am=IA/rs=AItRSTNqkRhMtkpSA0AbmH0iColYw_JJwg/cb=gapi.loaded_0",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 197,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 101742,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 8,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:16.454Z",
+        "time": 279,
+        "request": {
+          "method": "GET",
+          "url": "https://plus.google.com/u/0/_/notifications/frame?sourceid=1&hl=en&origin=https%3A%2F%2Fwww.google.it&uc=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.YwZcwvhQD7M.O%2Fm%3D__features__%2Fam%3DIA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTNqkRhMtkpSA0AbmH0iColYw_JJwg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": ":host",
+              "value": "plus.google.com"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36"
+            },
+            {
+              "name": "x-chrome-uma-enabled",
+              "value": "1"
+            },
+            {
+              "name": ":path",
+              "value": "/u/0/_/notifications/frame?sourceid=1&hl=en&origin=https%3A%2F%2Fwww.google.it&uc=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.YwZcwvhQD7M.O%2Fm%3D__features__%2Fam%3DIA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTNqkRhMtkpSA0AbmH0iColYw_JJwg"
+            },
+            {
+              "name": "accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            },
+            {
+              "name": ":version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "referer",
+              "value": "https://www.google.it/"
+            },
+            {
+              "name": "cookie",
+              "value": "WCSID=DQAAAM0AAABFE9YLrRoFVUbOlgfWPtrdF8TLy1s5yeSWVobEZFVOVIC3RrXnjC99q7UQkhjA9siC1Ew49G4XvUPG95gGIZOAP1i4hOaUYbjvGtlxLxA8l-czRbASgbfnrXpDiVkldSmr-9cdGlDF6RA_rCPcey2hG6nPWd7fw7P6mVR4gT-4MNwS8NxlCXwOoxSAwGGFMEnwjgStsAgn6CRJGBEMnX29UEFkcM6BGGe5qMDBintiH1-xsIzLiMhXzKWw4izxlztEpRVE9ea3rgYAi9wZ4jYt; PREF=ID=78091ed2ee76916b:U=ee3def0c7c791794:FF=4:LD=en:TM=1260523213:LM=1359927882:DV=sTIUytipGDoC:GM=1:S=gtG9vxBBZgO6-48j; SS=DQAAAMwAAAD9lTD5mCtTN0j-lRgoNSm3DcWZVfYCA1YYNlUC-HH3_DoD7jU6TSoZatp0rOQZ-HisU7lVMKfqopjUINf1elqyjHEbTbhVRv7P0M26TgR2rnTE8Upmkj_YS_3PrjoimKYKSt0Wj6UxnRXSrg4NdGAvcCwNZqb1eUOQ4c30FAhdmvURc59Stzx2ejpO-fsZd7SAG10cFdyKgLNwHYAAt1c3kRmyGCPGiNOFrlIz1rWIM-6EC5u_9jaVuRlfVxk0UkfUpHJxvu3QmuXeiMVQIlNT; NID=67=U1aQTHEYCMMgrD_xd67SKllIE-fCk1IqI2ravXOBt3lomwkaWL3locfO-KBHqOUUEVRjVKs3N6V_5giutRshHDcB6BaktyFnngtg8MoFSy4wR5lzEatTZvJS-xaG0yqTM5Sb-H0E7Tm56HnKVtfJ6_So98xvIiMyU-i4fuRsdsL3io0EnZVu2pzi1QcsfJyr79cDDJ1K22MQ9xmdoDkXeyxK5Ehgg_G4BLgpE2qQ_-LjwzL4qDh6xSkJhyEuLZXi3WYbHouWbH9XdMx7hqD2hT-CGWxk7z3l-F8; HSID=A7UN521z-GSpa5X9N; SSID=AHyF89jMZfcRNRJsY; APISID=U3L66j0ieFwA96p1/AIxFUFxDpWiafh-pc; SAPISID=jl0_xOIB6aMfNukt/AUlv7ybUTZTGqjT8D; OTZ=1810678_48_52_123900_48_436380; SID=DQAAAEUBAAAGr7P2uXrJApxn5-OSGxrFlFuSv_h-XFFbk92Wo0TmCiMVGbvGHHWA-vH8ljZkutNx6L0n4pMFazOTbTQApE2mAHQ3l4LZzfcg8EjLorqLTMMgV1t0x5LlskyjcGs7dinEGJFUSaicltph55UX2gbHj07GK4rPnTDB1AnWHQBW3IVmSzqWGmh5kYcZNXuZRkvuUwOKublMI326ftWIM0j4VNcomxmdXCL5x8f9ngMyfr7SFjxnXkuhTsbr_wq16HXkdtBtfN4XopC_6pWB4g-cZ9LDuZ1-AqTkzvD9DuKiq8SwpVsCW46GbZlDDwaq50DIF5e9bjJTMDdETC8jmGGDHYOJrCjKk1KYLxZ5j50o56B_sv7kv-BStllfaKaFfMzucFzlbjmaknIdwstYnIK2uxXX_71w7l6U5PEQIVftHV_wKTPWu1izxwbwjyFiLpM"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": "x-chrome-variations",
+              "value": "CIO2yQEIj7bJAQietskBCKO2yQEIqLbJAQiptskBCLy2yQEI74PKAQiOhMoBCPuEygEIwoXKAQjQhcoB"
+            },
+            {
+              "name": ":method",
+              "value": "GET"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "sourceid",
+              "value": "1"
+            },
+            {
+              "name": "hl",
+              "value": "en"
+            },
+            {
+              "name": "origin",
+              "value": "https%3A%2F%2Fwww.google.it"
+            },
+            {
+              "name": "uc",
+              "value": "1"
+            },
+            {
+              "name": "jsh",
+              "value": "m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.YwZcwvhQD7M.O%2Fm%3D__features__%2Fam%3DIA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTNqkRhMtkpSA0AbmH0iColYw_JJwg"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "WCSID",
+              "value": "DQAAAM0AAABFE9YLrRoFVUbOlgfWPtrdF8TLy1s5yeSWVobEZFVOVIC3RrXnjC99q7UQkhjA9siC1Ew49G4XvUPG95gGIZOAP1i4hOaUYbjvGtlxLxA8l-czRbASgbfnrXpDiVkldSmr-9cdGlDF6RA_rCPcey2hG6nPWd7fw7P6mVR4gT-4MNwS8NxlCXwOoxSAwGGFMEnwjgStsAgn6CRJGBEMnX29UEFkcM6BGGe5qMDBintiH1-xsIzLiMhXzKWw4izxlztEpRVE9ea3rgYAi9wZ4jYt",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "PREF",
+              "value": "ID=78091ed2ee76916b:U=ee3def0c7c791794:FF=4:LD=en:TM=1260523213:LM=1359927882:DV=sTIUytipGDoC:GM=1:S=gtG9vxBBZgO6-48j",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SS",
+              "value": "DQAAAMwAAAD9lTD5mCtTN0j-lRgoNSm3DcWZVfYCA1YYNlUC-HH3_DoD7jU6TSoZatp0rOQZ-HisU7lVMKfqopjUINf1elqyjHEbTbhVRv7P0M26TgR2rnTE8Upmkj_YS_3PrjoimKYKSt0Wj6UxnRXSrg4NdGAvcCwNZqb1eUOQ4c30FAhdmvURc59Stzx2ejpO-fsZd7SAG10cFdyKgLNwHYAAt1c3kRmyGCPGiNOFrlIz1rWIM-6EC5u_9jaVuRlfVxk0UkfUpHJxvu3QmuXeiMVQIlNT",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "NID",
+              "value": "67=U1aQTHEYCMMgrD_xd67SKllIE-fCk1IqI2ravXOBt3lomwkaWL3locfO-KBHqOUUEVRjVKs3N6V_5giutRshHDcB6BaktyFnngtg8MoFSy4wR5lzEatTZvJS-xaG0yqTM5Sb-H0E7Tm56HnKVtfJ6_So98xvIiMyU-i4fuRsdsL3io0EnZVu2pzi1QcsfJyr79cDDJ1K22MQ9xmdoDkXeyxK5Ehgg_G4BLgpE2qQ_-LjwzL4qDh6xSkJhyEuLZXi3WYbHouWbH9XdMx7hqD2hT-CGWxk7z3l-F8",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "HSID",
+              "value": "A7UN521z-GSpa5X9N",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SSID",
+              "value": "AHyF89jMZfcRNRJsY",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "APISID",
+              "value": "U3L66j0ieFwA96p1/AIxFUFxDpWiafh-pc",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SAPISID",
+              "value": "jl0_xOIB6aMfNukt/AUlv7ybUTZTGqjT8D",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "OTZ",
+              "value": "1810678_48_52_123900_48_436380",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "SID",
+              "value": "DQAAAEUBAAAGr7P2uXrJApxn5-OSGxrFlFuSv_h-XFFbk92Wo0TmCiMVGbvGHHWA-vH8ljZkutNx6L0n4pMFazOTbTQApE2mAHQ3l4LZzfcg8EjLorqLTMMgV1t0x5LlskyjcGs7dinEGJFUSaicltph55UX2gbHj07GK4rPnTDB1AnWHQBW3IVmSzqWGmh5kYcZNXuZRkvuUwOKublMI326ftWIM0j4VNcomxmdXCL5x8f9ngMyfr7SFjxnXkuhTsbr_wq16HXkdtBtfN4XopC_6pWB4g-cZ9LDuZ1-AqTkzvD9DuKiq8SwpVsCW46GbZlDDwaq50DIF5e9bjJTMDdETC8jmGGDHYOJrCjKk1KYLxZ5j50o56B_sv7kv-BStllfaKaFfMzucFzlbjmaknIdwstYnIK2uxXX_71w7l6U5PEQIVftHV_wKTPWu1izxwbwjyFiLpM",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 3074,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "date",
+              "value": "Tue, 11 Jun 2013 10:34:16 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "server",
+              "value": "GSE"
+            },
+            {
+              "name": "version",
+              "value": "HTTP/1.1"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {
+              "name": "status",
+              "value": "200 OK"
+            },
+            {
+              "name": "cache-control",
+              "value": "private, max-age=0"
+            },
+            {
+              "name": "x-ua-compatible",
+              "value": "IE=edge, chrome=1"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "expires",
+              "value": "Tue, 11 Jun 2013 10:34:16 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 23092,
+            "mimeType": "text/html",
+            "compression": 23437
+          },
+          "redirectURL": "",
+          "headersSize": 345,
+          "bodySize": -345
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": 3,
+          "wait": 86,
+          "receive": 186,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:16.578Z",
+        "time": 36,
+        "request": {
+          "method": "GET",
+          "url": "https://plus.google.com/_/scs/apps-static/_/ss/k=oz.sbw.-1q6kdp8hbdizl.L.W.O/am=gsUpHA3oZaH_DwU/rs=AItRSTNbus3pTgOY_6MTL0a6FhO0CKyUWg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 148,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 222127,
+            "mimeType": "text/css"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 30,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      },
+      {
+        "startedDateTime": "2013-06-11T10:34:16.615Z",
+        "time": 133,
+        "request": {
+          "method": "GET",
+          "url": "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.YwZcwvhQD7M.O/m=iframes,googleapis_client/am=IA/rt=j/d=1/rs=AItRSTNqkRhMtkpSA0AbmH0iColYw_JJwg",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 170,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [],
+          "cookies": [],
+          "content": {
+            "size": 75599,
+            "mimeType": "text/javascript"
+          },
+          "redirectURL": "",
+          "headersSize": 17,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": -1,
+          "send": -1,
+          "wait": -1,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_3"
+      }
+    ]
+  }
+}
